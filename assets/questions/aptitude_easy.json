@@ -1,0 +1,988 @@
+[
+  {
+    "id": "apt_e1",
+    "category": "Aptitude",
+    "topic": "Percentages",
+    "difficulty": "easy",
+    "question": "What is 10% of 500?",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "55"
+    ],
+    "correctAnswer": 1,
+    "explanation": "10% of 500 = (10/100)×500 = 50",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e2",
+    "category": "Aptitude",
+    "topic": "Percentages",
+    "difficulty": "easy",
+    "question": "25% of 200 is:",
+    "options": [
+      "40",
+      "45",
+      "50",
+      "55"
+    ],
+    "correctAnswer": 2,
+    "explanation": "25% of 200 = (25/100)×200 = 50",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e3",
+    "category": "Aptitude",
+    "topic": "Percentages",
+    "difficulty": "easy",
+    "question": "A shirt costs ₹400. After 20% discount, the sale price is:",
+    "options": [
+      "₹300",
+      "₹320",
+      "₹350",
+      "₹380"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Discount = 20% of 400 = 80. Sale price = 400-80 = ₹320",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e4",
+    "category": "Aptitude",
+    "topic": "Percentages",
+    "difficulty": "easy",
+    "question": "If 40% of a number is 80, the number is:",
+    "options": [
+      "160",
+      "180",
+      "200",
+      "220"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Let number = x. 40% of x = 80 → x = 80×100/40 = 200",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e5",
+    "category": "Aptitude",
+    "topic": "Percentages",
+    "difficulty": "easy",
+    "question": "A student scored 90 out of 150. What percentage did she score?",
+    "options": [
+      "55%",
+      "60%",
+      "65%",
+      "70%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Percentage = (90/150)×100 = 60%",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e6",
+    "category": "Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "easy",
+    "question": "A pen is bought for ₹10 and sold for ₹12. What is the profit?",
+    "options": [
+      "₹1",
+      "₹2",
+      "₹3",
+      "₹4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Profit = Selling Price - Cost Price = 12-10 = ₹2",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e7",
+    "category": "Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "easy",
+    "question": "A book is bought for ₹100 and sold for ₹80. What is the loss percentage?",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Loss = 100-80 = 20. Loss% = (20/100)×100 = 20%",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e8",
+    "category": "Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "easy",
+    "question": "A toy is bought for ₹200 and sold for ₹250. What is the profit percentage?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "35%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Profit = 250-200 = 50. Profit% = (50/200)×100 = 25%",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e9",
+    "category": "Aptitude",
+    "topic": "Averages",
+    "difficulty": "easy",
+    "question": "The average of 4, 8, 12, 16 is:",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Average = (4+8+12+16)/4 = 40/4 = 10",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e10",
+    "category": "Aptitude",
+    "topic": "Averages",
+    "difficulty": "easy",
+    "question": "Average of 5 numbers is 10. Their sum is:",
+    "options": [
+      "40",
+      "45",
+      "50",
+      "55"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sum = Average × Count = 10 × 5 = 50",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e11",
+    "category": "Aptitude",
+    "topic": "Averages",
+    "difficulty": "easy",
+    "question": "The average of first 5 natural numbers is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "First 5 natural numbers: 1,2,3,4,5. Sum=15. Average=15/5=3",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e12",
+    "category": "Aptitude",
+    "topic": "Ratio and Proportion",
+    "difficulty": "easy",
+    "question": "Ratio of 15 to 25 in simplest form is:",
+    "options": [
+      "2:3",
+      "3:5",
+      "5:3",
+      "4:5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "GCD of 15 and 25 is 5. 15/5=3, 25/5=5. Ratio = 3:5",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e13",
+    "category": "Aptitude",
+    "topic": "Ratio and Proportion",
+    "difficulty": "easy",
+    "question": "If A:B = 2:3 and B:C = 3:4, then A:C = ?",
+    "options": [
+      "1:2",
+      "2:4",
+      "1:3",
+      "2:3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A:C = (2/3):(4/3) → multiply both by 3 → 2:4 = 1:2",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "apt_e14",
+    "category": "Aptitude",
+    "topic": "Ratio and Proportion",
+    "difficulty": "easy",
+    "question": "Divide ₹600 between A and B in ratio 1:2. B's share is:",
+    "options": [
+      "₹100",
+      "₹200",
+      "₹300",
+      "₹400"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Total parts=3. B gets 2 parts = (2/3)×600 = ₹400",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e15",
+    "category": "Aptitude",
+    "topic": "Simple Interest",
+    "difficulty": "easy",
+    "question": "Simple Interest on ₹1000 at 10% per year for 2 years is:",
+    "options": [
+      "₹100",
+      "₹150",
+      "₹200",
+      "₹250"
+    ],
+    "correctAnswer": 2,
+    "explanation": "SI = (P×R×T)/100 = (1000×10×2)/100 = ₹200",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e16",
+    "category": "Aptitude",
+    "topic": "Simple Interest",
+    "difficulty": "easy",
+    "question": "Principal ₹500, Rate 5% per annum, Time 1 year. SI = ?",
+    "options": [
+      "₹20",
+      "₹25",
+      "₹30",
+      "₹35"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SI = (500×5×1)/100 = ₹25",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e17",
+    "category": "Aptitude",
+    "topic": "Simple Interest",
+    "difficulty": "easy",
+    "question": "At SI, if ₹2000 becomes ₹2400 in 2 years, the rate is:",
+    "options": [
+      "8%",
+      "10%",
+      "12%",
+      "15%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SI=400. Rate = (400×100)/(2000×2) = 10%",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "apt_e18",
+    "category": "Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "easy",
+    "question": "A can finish a work in 5 days. In 1 day he does what fraction?",
+    "options": [
+      "1/3",
+      "1/4",
+      "1/5",
+      "1/6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Work per day = 1/Total days = 1/5",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "apt_e19",
+    "category": "Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "easy",
+    "question": "A does a job in 10 days, B does it in 10 days. Together they do it in:",
+    "options": [
+      "4 days",
+      "5 days",
+      "6 days",
+      "8 days"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Combined rate = 1/10+1/10 = 2/10 = 1/5. Days = 5",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e20",
+    "category": "Aptitude",
+    "topic": "Time Speed Distance",
+    "difficulty": "easy",
+    "question": "Speed = 60 km/h, Time = 2 hours. Distance = ?",
+    "options": [
+      "100 km",
+      "110 km",
+      "120 km",
+      "130 km"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Distance = Speed × Time = 60 × 2 = 120 km",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "apt_e21",
+    "category": "Aptitude",
+    "topic": "Time Speed Distance",
+    "difficulty": "easy",
+    "question": "A car travels 150 km in 3 hours. Its speed is:",
+    "options": [
+      "40 km/h",
+      "45 km/h",
+      "50 km/h",
+      "55 km/h"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speed = Distance/Time = 150/3 = 50 km/h",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "apt_e22",
+    "category": "Aptitude",
+    "topic": "Number System",
+    "difficulty": "easy",
+    "question": "Which of the following is a prime number?",
+    "options": [
+      "15",
+      "21",
+      "23",
+      "25"
+    ],
+    "correctAnswer": 2,
+    "explanation": "23 is divisible only by 1 and 23. Hence prime. 15=3×5, 21=3×7, 25=5×5",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e23",
+    "category": "Aptitude",
+    "topic": "Number System",
+    "difficulty": "easy",
+    "question": "The sum of first 10 natural numbers is:",
+    "options": [
+      "45",
+      "50",
+      "55",
+      "60"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sum = n(n+1)/2 = 10×11/2 = 55",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e24",
+    "category": "Aptitude",
+    "topic": "Number System",
+    "difficulty": "easy",
+    "question": "What is the value of 12² ?",
+    "options": [
+      "124",
+      "132",
+      "144",
+      "148"
+    ],
+    "correctAnswer": 2,
+    "explanation": "12² = 12×12 = 144",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "apt_e25",
+    "category": "Aptitude",
+    "topic": "HCF and LCM",
+    "difficulty": "easy",
+    "question": "HCF of 12 and 18 is:",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "9"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Factors of 12: 1,2,3,4,6,12. Factors of 18: 1,2,3,6,9,18. HCF=6",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e26",
+    "category": "Aptitude",
+    "topic": "HCF and LCM",
+    "difficulty": "easy",
+    "question": "LCM of 4 and 6 is:",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "16"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Multiples of 4: 4,8,12... Multiples of 6: 6,12... LCM=12",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e27",
+    "category": "Aptitude",
+    "topic": "HCF and LCM",
+    "difficulty": "easy",
+    "question": "HCF × LCM = Product of two numbers. If HCF=4, LCM=24, and one number=8, the other is:",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Product = HCF×LCM = 4×24=96. Other number = 96/8=12",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "apt_e28",
+    "category": "Aptitude",
+    "topic": "Percentages",
+    "difficulty": "easy",
+    "question": "Population of a town is 10000. If it increases by 5%, new population is:",
+    "options": [
+      "10400",
+      "10450",
+      "10500",
+      "10550"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Increase = 5% of 10000 = 500. New = 10000+500 = 10500",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e29",
+    "category": "Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "easy",
+    "question": "CP=₹150, SP=₹120. Find the loss%.",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Loss=30. Loss%=(30/150)×100=20%",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e30",
+    "category": "Aptitude",
+    "topic": "Averages",
+    "difficulty": "easy",
+    "question": "Average of 10, 20, 30, 40, 50 is:",
+    "options": [
+      "25",
+      "28",
+      "30",
+      "32"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sum=150. Average=150/5=30",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e31",
+    "category": "Aptitude",
+    "topic": "Ratio and Proportion",
+    "difficulty": "easy",
+    "question": "If 2 apples cost ₹10, then 6 apples cost:",
+    "options": [
+      "₹25",
+      "₹30",
+      "₹35",
+      "₹40"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cost per apple = 5. 6 apples = 6×5 = ₹30",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e32",
+    "category": "Aptitude",
+    "topic": "Time Speed Distance",
+    "difficulty": "easy",
+    "question": "A train covers 200 km in 4 hours. Its speed is:",
+    "options": [
+      "40 km/h",
+      "45 km/h",
+      "50 km/h",
+      "55 km/h"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speed = 200/4 = 50 km/h",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "apt_e33",
+    "category": "Aptitude",
+    "topic": "Number System",
+    "difficulty": "easy",
+    "question": "Which of the following is divisible by 9?",
+    "options": [
+      "325",
+      "333",
+      "340",
+      "350"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sum of digits of 333 = 3+3+3 = 9. Divisible by 9.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e34",
+    "category": "Aptitude",
+    "topic": "Simple Interest",
+    "difficulty": "easy",
+    "question": "At what rate will ₹800 give SI of ₹160 in 2 years?",
+    "options": [
+      "8%",
+      "10%",
+      "12%",
+      "15%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rate = (SI×100)/(P×T) = (160×100)/(800×2) = 10%",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e35",
+    "category": "Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "easy",
+    "question": "If 6 workers complete a job in 4 days, 3 workers will complete it in:",
+    "options": [
+      "6 days",
+      "8 days",
+      "10 days",
+      "12 days"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Work = 6×4=24 man-days. With 3 workers: 24/3=8 days",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e36",
+    "category": "Aptitude",
+    "topic": "Percentages",
+    "difficulty": "easy",
+    "question": "What percentage of 80 is 20?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "40%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "(20/80)×100 = 25%",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e37",
+    "category": "Aptitude",
+    "topic": "Number System",
+    "difficulty": "easy",
+    "question": "What is √144 ?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswer": 2,
+    "explanation": "12×12=144, so √144=12",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "apt_e38",
+    "category": "Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "easy",
+    "question": "A vendor buys 10 oranges for ₹20 and sells at ₹3 each. Profit%?",
+    "options": [
+      "40%",
+      "45%",
+      "50%",
+      "55%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CP per orange=₹2. SP=₹3. Profit=1. Profit%=(1/2)×100=50%",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "apt_e39",
+    "category": "Aptitude",
+    "topic": "Averages",
+    "difficulty": "easy",
+    "question": "Average marks of 3 students: 70, 80, 90. Average is:",
+    "options": [
+      "75",
+      "78",
+      "80",
+      "82"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sum = 70+80+90=240. Average=240/3=80",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e40",
+    "category": "Aptitude",
+    "topic": "Time Speed Distance",
+    "difficulty": "easy",
+    "question": "Distance = 90 km, Speed = 45 km/h. Time taken is:",
+    "options": [
+      "1.5 h",
+      "2 h",
+      "2.5 h",
+      "3 h"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Time = Distance/Speed = 90/45 = 2 hours",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e41",
+    "category": "Aptitude",
+    "topic": "Simple Interest",
+    "difficulty": "easy",
+    "question": "Find Amount if P=₹1000, R=8%, T=1 year.",
+    "options": [
+      "₹1060",
+      "₹1070",
+      "₹1080",
+      "₹1090"
+    ],
+    "correctAnswer": 2,
+    "explanation": "SI = (1000×8×1)/100 = 80. Amount = 1000+80 = ₹1080",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e42",
+    "category": "Aptitude",
+    "topic": "HCF and LCM",
+    "difficulty": "easy",
+    "question": "LCM of 6, 8 and 12 is:",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "correctAnswer": 2,
+    "explanation": "LCM(6,8)=24. LCM(24,12)=24",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e43",
+    "category": "Aptitude",
+    "topic": "Number System",
+    "difficulty": "easy",
+    "question": "What is the smallest 3-digit number?",
+    "options": [
+      "99",
+      "100",
+      "101",
+      "110"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The smallest 3-digit number is 100",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "apt_e44",
+    "category": "Aptitude",
+    "topic": "Percentages",
+    "difficulty": "easy",
+    "question": "If price is increased by 10% and then decreased by 10%, net change is:",
+    "options": [
+      "0%",
+      "-1%",
+      "+1%",
+      "-2%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Let price=100. After 10% up=110. After 10% down=99. Net=-1%",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "apt_e45",
+    "category": "Aptitude",
+    "topic": "Ratio and Proportion",
+    "difficulty": "easy",
+    "question": "A mixture has milk and water in ratio 3:1. Fraction of milk is:",
+    "options": [
+      "1/4",
+      "2/4",
+      "3/4",
+      "4/5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Total parts=4. Milk fraction=3/4",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e46",
+    "category": "Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "easy",
+    "question": "A pipe fills a tank in 12 hours. What fraction is filled in 3 hours?",
+    "options": [
+      "1/6",
+      "1/5",
+      "1/4",
+      "1/3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fraction filled = 3/12 = 1/4",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e47",
+    "category": "Aptitude",
+    "topic": "Number System",
+    "difficulty": "easy",
+    "question": "The product of a number and its reciprocal is always:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "The number itself"
+    ],
+    "correctAnswer": 1,
+    "explanation": "n × (1/n) = 1, always",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "apt_e48",
+    "category": "Aptitude",
+    "topic": "Percentages",
+    "difficulty": "easy",
+    "question": "75% of 120 is:",
+    "options": [
+      "80",
+      "85",
+      "90",
+      "95"
+    ],
+    "correctAnswer": 2,
+    "explanation": "75% of 120 = 0.75×120 = 90",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e49",
+    "category": "Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "easy",
+    "question": "SP=₹900, Profit%=20%. Find CP.",
+    "options": [
+      "₹650",
+      "₹700",
+      "₹750",
+      "₹800"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CP = SP×100/(100+P%) = 900×100/120 = 750",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "apt_e50",
+    "category": "Aptitude",
+    "topic": "Averages",
+    "difficulty": "easy",
+    "question": "What must be added to set {2,4,6,8} to make average 6?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Current sum=20. For avg=6 with 5 numbers: sum needed=30. Add 30-20=10",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "apt_e51",
+    "category": "Aptitude",
+    "topic": "Number System",
+    "difficulty": "easy",
+    "question": "What is the cube of 5?",
+    "options": [
+      "25",
+      "100",
+      "125",
+      "150"
+    ],
+    "correctAnswer": 2,
+    "explanation": "5³ = 5×5×5 = 125",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "apt_e52",
+    "category": "Aptitude",
+    "topic": "Percentages",
+    "difficulty": "easy",
+    "question": "30% of 90 is:",
+    "options": [
+      "24",
+      "27",
+      "30",
+      "33"
+    ],
+    "correctAnswer": 1,
+    "explanation": "30% of 90 = 0.30 × 90 = 27",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "apt_e53",
+    "category": "Aptitude",
+    "topic": "Averages",
+    "difficulty": "easy",
+    "question": "Average of 2, 4, 6, 8, 10 is:",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sum=30, count=5. Average=30/5=6",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "apt_e54",
+    "category": "Aptitude",
+    "topic": "Ratio and Proportion",
+    "difficulty": "easy",
+    "question": "If a:b = 3:4 and b:c = 2:5, then a:c = ?",
+    "options": [
+      "3:10",
+      "6:20",
+      "3:8",
+      "6:10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "a:c = (3/4)×(2/5) = 6:20 = 3:10",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "apt_e55",
+    "category": "Aptitude",
+    "topic": "Time Speed Distance",
+    "difficulty": "easy",
+    "question": "If a person walks at 6 km/h, how far does he walk in 90 minutes?",
+    "options": [
+      "7 km",
+      "8 km",
+      "9 km",
+      "10 km"
+    ],
+    "correctAnswer": 2,
+    "explanation": "90 min = 1.5 hours. Distance = 6×1.5 = 9 km",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e51",
+    "category": "Aptitude",
+    "topic": "Simple Interest",
+    "difficulty": "easy",
+    "question": "Find SI when P=₹2000, R=6%, T=3 years.",
+    "options": [
+      "₹280",
+      "₹320",
+      "₹360",
+      "₹400"
+    ],
+    "correctAnswer": 2,
+    "explanation": "SI=(2000×6×3)/100=₹360",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e52",
+    "category": "Aptitude",
+    "topic": "Ratio and Proportion",
+    "difficulty": "easy",
+    "question": "If 4:x = 8:20, find x.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "correctAnswer": 1,
+    "explanation": "4/x=8/20 → x=4×20/8=10",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "apt_e53",
+    "category": "Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "easy",
+    "question": "20 workers complete in 10 days. How many workers for 5 days?",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Total work=200 man-days. For 5 days: 200/5=40 workers",
+    "timeLimit": 20,
+    "language": "en"
+  }
+]

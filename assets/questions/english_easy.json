@@ -1,0 +1,1141 @@
+[
+  {
+    "id": "ene01",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "She ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Third person singular (she) takes 'goes' in present simple.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene02",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "They ___ playing cricket right now.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "was"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'They' is plural and takes 'are' in present continuous.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene03",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "easy",
+    "question": "HAPPY means the same as:",
+    "options": [
+      "Sad",
+      "Cheerful",
+      "Angry",
+      "Bored"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cheerful means feeling happy and positive. Synonym of happy.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene04",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "easy",
+    "question": "The antonym of ANCIENT is:",
+    "options": [
+      "Historic",
+      "Old",
+      "Modern",
+      "Classic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ancient means very old; modern means recent or current.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene05",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "DILIGENT means:",
+    "options": [
+      "Lazy",
+      "Slow",
+      "Hardworking",
+      "Careless"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Diligent means hardworking, careful, and putting in effort.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene06",
+    "category": "English",
+    "topic": "Articles",
+    "difficulty": "easy",
+    "question": "I want to eat ___ apple.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'An' is used before words starting with a vowel sound. Apple starts with 'a' vowel sound.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene07",
+    "category": "English",
+    "topic": "Articles",
+    "difficulty": "easy",
+    "question": "___ Sun rises in the East.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'The' is used for unique objects like the Sun, the Moon.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene08",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "easy",
+    "question": "She ___ here yesterday.",
+    "options": [
+      "come",
+      "comes",
+      "came",
+      "has come"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Yesterday' indicates simple past tense. 'Came' is past tense of 'come'.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene09",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "easy",
+    "question": "I ___ my homework by 8 PM tomorrow.",
+    "options": [
+      "will finish",
+      "will have finished",
+      "finish",
+      "finished"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Future perfect tense is used for action completed before a future point.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene10",
+    "category": "English",
+    "topic": "Fill in the Blanks",
+    "difficulty": "easy",
+    "question": "He is ___ than his brother.",
+    "options": [
+      "tall",
+      "taller",
+      "tallest",
+      "more tall"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Comparative form of 'tall' is 'taller' (used when comparing two).",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene11",
+    "category": "English",
+    "topic": "Fill in the Blanks",
+    "difficulty": "easy",
+    "question": "The children ___ playing in the park.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "was"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Children' is plural → takes 'are'.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene12",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "easy",
+    "question": "BRAVE means the same as:",
+    "options": [
+      "Cowardly",
+      "Bold",
+      "Timid",
+      "Scared"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bold means courageous and confident. Synonym of brave.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene13",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "easy",
+    "question": "The antonym of GENEROUS is:",
+    "options": [
+      "Kind",
+      "Giving",
+      "Miserly",
+      "Helpful"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Generous means giving freely; Miserly means unwilling to spend.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene14",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "TRANSPARENT means:",
+    "options": [
+      "Cloudy",
+      "See-through",
+      "Thick",
+      "Coloured"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Transparent means clear, see-through. Example: glass is transparent.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene15",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "He ___ not know the answer.",
+    "options": [
+      "do",
+      "does",
+      "did",
+      "is"
+    ],
+    "correctAnswer": 1,
+    "explanation": "With third-person singular in negative, use 'does not'.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene16",
+    "category": "English",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "easy",
+    "question": "Neither the boys nor the girl ___ present.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "am"
+    ],
+    "correctAnswer": 2,
+    "explanation": "With 'neither...nor', verb agrees with nearest subject (girl = singular → is).",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene17",
+    "category": "English",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "easy",
+    "question": "Each of the students ___ a book.",
+    "options": [
+      "have",
+      "has",
+      "had",
+      "is having"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Each' is singular → takes 'has'.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene18",
+    "category": "English",
+    "topic": "Prepositions",
+    "difficulty": "easy",
+    "question": "She is good ___ mathematics.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "with"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Good at' is the correct preposition phrase for skill/subject.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene19",
+    "category": "English",
+    "topic": "Prepositions",
+    "difficulty": "easy",
+    "question": "The cat jumped ___ the table.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "over"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'On' indicates resting position on a surface.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene20",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "easy",
+    "question": "ENORMOUS means:",
+    "options": [
+      "Tiny",
+      "Small",
+      "Huge",
+      "Narrow"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Enormous means very large or huge.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene21",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "easy",
+    "question": "Antonym of VICTORY is:",
+    "options": [
+      "Win",
+      "Success",
+      "Defeat",
+      "Progress"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Victory = win; Defeat = loss. They are opposites.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene22",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Recieve",
+      "Receive",
+      "Receve",
+      "Recieve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Receive' follows the rule: 'i before e except after c'.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene23",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "easy",
+    "question": "By the time she arrived, we ___ dinner.",
+    "options": [
+      "eat",
+      "ate",
+      "have eaten",
+      "had eaten"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Past perfect (had eaten) is used for an action completed before another past action.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene24",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "OBSOLETE means:",
+    "options": [
+      "New",
+      "Updated",
+      "Outdated",
+      "Popular"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Obsolete means no longer in use or outdated.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene25",
+    "category": "English",
+    "topic": "Fill in the Blanks",
+    "difficulty": "easy",
+    "question": "The teacher asked the students ___ be quiet.",
+    "options": [
+      "to",
+      "for",
+      "of",
+      "at"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Asked to' is the correct infinitive construction.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene26",
+    "category": "English",
+    "topic": "Articles",
+    "difficulty": "easy",
+    "question": "She wants to be ___ engineer.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'An' before vowel sound. 'Engineer' starts with vowel 'e'.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene27",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "easy",
+    "question": "RAPID means:",
+    "options": [
+      "Slow",
+      "Fast",
+      "Careful",
+      "Silent"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rapid means moving or happening quickly. Synonym: fast.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene28",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "easy",
+    "question": "Antonym of COMEDY is:",
+    "options": [
+      "Drama",
+      "Tragedy",
+      "Action",
+      "Romance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Comedy and Tragedy are literary opposites.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene29",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "This is ___ most beautiful city I have ever seen.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Superlative form requires 'the'. 'The most beautiful.'",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene30",
+    "category": "English",
+    "topic": "Fill in the Blanks",
+    "difficulty": "easy",
+    "question": "He has been working here ___ five years.",
+    "options": [
+      "since",
+      "for",
+      "from",
+      "by"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'For' is used with a period/duration of time. 'Since' is used with a point in time.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene31",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "FRUGAL means:",
+    "options": [
+      "Wasteful",
+      "Thrifty",
+      "Generous",
+      "Careless"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Frugal means being economical and thrifty with money.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene32",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "He speaks English ___.",
+    "options": [
+      "good",
+      "well",
+      "better",
+      "best"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Well' is the adverb form; 'good' is adjective. Adverb modifies 'speaks'.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene33",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "easy",
+    "question": "I ___ here since 2020.",
+    "options": [
+      "am",
+      "was",
+      "have been",
+      "had been"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Present perfect continuous: action started in past and still ongoing.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene34",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "easy",
+    "question": "GRIEF means the same as:",
+    "options": [
+      "Joy",
+      "Sorrow",
+      "Happiness",
+      "Anger"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Grief means deep sorrow, especially due to loss. Synonym: sorrow.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene35",
+    "category": "English",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "easy",
+    "question": "The news ___ shocking.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have been"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'News' is singular (despite ending in -s). Takes singular verb 'is'.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene36",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "easy",
+    "question": "Antonym of INTERIOR is:",
+    "options": [
+      "Inside",
+      "Inner",
+      "Exterior",
+      "Central"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Interior = inside; Exterior = outside.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene37",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "BENEVOLENT means:",
+    "options": [
+      "Cruel",
+      "Kind and generous",
+      "Selfish",
+      "Rude"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Benevolent means well-meaning and kind. Often used for generous donors.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene38",
+    "category": "English",
+    "topic": "Prepositions",
+    "difficulty": "easy",
+    "question": "She was born ___ Monday.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'On' is used with days of the week.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene39",
+    "category": "English",
+    "topic": "Fill in the Blanks",
+    "difficulty": "easy",
+    "question": "___ he studied hard, he failed the exam.",
+    "options": [
+      "Although",
+      "Because",
+      "If",
+      "Since"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Although' introduces a contrast/concession clause.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene40",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "He don't like coffee",
+      "He doesn't likes coffee",
+      "He doesn't like coffee",
+      "He not like coffee"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Third person singular negative: does + not + base verb.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene41",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "easy",
+    "question": "HUMBLE means the same as:",
+    "options": [
+      "Proud",
+      "Modest",
+      "Arrogant",
+      "Superior"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Humble means not arrogant; modest.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene42",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "easy",
+    "question": "She ___ her homework before dinner every day.",
+    "options": [
+      "do",
+      "did",
+      "does",
+      "is doing"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Habitual present action with third-person singular → 'does'.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene43",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "VICINITY means:",
+    "options": [
+      "Far away",
+      "Nearby area",
+      "Inside",
+      "Below"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vicinity means the surrounding area or neighbourhood.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene44",
+    "category": "English",
+    "topic": "Articles",
+    "difficulty": "easy",
+    "question": "He is ___ honest person.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Honest' starts with a silent 'h', giving vowel sound 'o' → use 'an'.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene45",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "easy",
+    "question": "Antonym of MAJORITY is:",
+    "options": [
+      "Mass",
+      "Many",
+      "Minority",
+      "Most"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Majority means most; Minority means the smaller part.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene46",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "___ you please pass the salt?",
+    "options": [
+      "Can",
+      "Should",
+      "Must",
+      "Shall"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Can you' is a polite request in everyday English.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene47",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "easy",
+    "question": "INTELLIGENT means the same as:",
+    "options": [
+      "Foolish",
+      "Dull",
+      "Smart",
+      "Lazy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Intelligent means having good understanding and reasoning ability. Synonym: smart.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene48",
+    "category": "English",
+    "topic": "Fill in the Blanks",
+    "difficulty": "easy",
+    "question": "The box is ___ the table.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'On' means resting on the surface of.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene49",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "easy",
+    "question": "When I reached the station, the train ___.",
+    "options": [
+      "has left",
+      "had left",
+      "leaves",
+      "left"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Past perfect (had left) for action completed before another past action.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene50",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "AMIABLE means:",
+    "options": [
+      "Unfriendly",
+      "Hostile",
+      "Friendly",
+      "Strict"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Amiable means having a pleasant, friendly disposition.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene51",
+    "category": "English",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "easy",
+    "question": "A lot of students ___ absent today.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "was"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'A lot of students' = plural → 'are'.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene52",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "We enjoyed ___ at the party.",
+    "options": [
+      "us",
+      "our",
+      "ourselves",
+      "ours"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Reflexive pronoun 'ourselves' is used when subject and object are the same.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene53",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "easy",
+    "question": "Antonym of PERMANENT is:",
+    "options": [
+      "Lasting",
+      "Eternal",
+      "Temporary",
+      "Stable"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Permanent = lasting forever; Temporary = lasting for a limited time.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene54",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "easy",
+    "question": "EXHAUSTED means the same as:",
+    "options": [
+      "Energetic",
+      "Tired",
+      "Excited",
+      "Refreshed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Exhausted means extremely tired.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene55",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "ELOQUENT means:",
+    "options": [
+      "Silent",
+      "Inarticulate",
+      "Expressive and fluent",
+      "Boring"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Eloquent describes someone who speaks fluently and persuasively.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene56",
+    "category": "English",
+    "topic": "Prepositions",
+    "difficulty": "easy",
+    "question": "She is interested ___ classical music.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "for"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Interested in' is the correct preposition phrase.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene57",
+    "category": "English",
+    "topic": "Articles",
+    "difficulty": "easy",
+    "question": "Can you play ___ guitar?",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Play the guitar' uses 'the' with musical instruments.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene58",
+    "category": "English",
+    "topic": "Fill in the Blanks",
+    "difficulty": "easy",
+    "question": "I am looking forward ___ meeting you.",
+    "options": [
+      "to",
+      "for",
+      "of",
+      "about"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Look forward to' is a fixed phrase; 'to' is a preposition here followed by gerund.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene59",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "How ___ water do you need?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "little"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Much' is used with uncountable nouns like water.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "ene60",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "easy",
+    "question": "He ___ TV when I called him.",
+    "options": [
+      "watches",
+      "watched",
+      "was watching",
+      "is watching"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Past continuous (was watching) for ongoing action interrupted by another action.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "eng_e51",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "easy",
+    "question": "Synonym of ENORMOUS:",
+    "options": [
+      "Tiny",
+      "Small",
+      "Huge",
+      "Average"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Enormous means extremely large. Huge is its synonym",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "eng_e52",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "Correct plural of 'ox':",
+    "options": [
+      "Oxes",
+      "Oxen",
+      "Ox",
+      "Oxs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ox has irregular plural: Oxen",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "eng_e53",
+    "category": "English",
+    "topic": "Fill in the Blanks",
+    "difficulty": "easy",
+    "question": "He is the best student ___ the class.",
+    "options": [
+      "of",
+      "in",
+      "at",
+      "from"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'In the class' is the correct prepositional phrase for group membership",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "eng_e54",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "easy",
+    "question": "Antonym of SHALLOW:",
+    "options": [
+      "Wide",
+      "Broad",
+      "Deep",
+      "Narrow"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Shallow = not deep. Deep is the direct antonym",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "eng_e55",
+    "category": "English",
+    "topic": "Prepositions",
+    "difficulty": "easy",
+    "question": "She has been studying ___ morning.",
+    "options": [
+      "for",
+      "since",
+      "from",
+      "during"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Since' is used with a point in time (e.g., since morning, since 8am)",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "eng_e51",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "easy",
+    "question": "'I ___ in this company for five years.' (still working)",
+    "options": [
+      "work",
+      "worked",
+      "have worked",
+      "had worked"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Present perfect 'have worked' for actions starting in past and continuing to present",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "eng_e52",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "easy",
+    "question": "Synonym of CONCEAL:",
+    "options": [
+      "Reveal",
+      "Hide",
+      "Show",
+      "Display"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conceal = keep from sight or knowledge. Hide is its synonym",
+    "timeLimit": 15,
+    "language": "en"
+  }
+]

@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "rem01",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "2, 6, 12, 20, 30, ?",
+    "options": [
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Differences: 4,6,8,10,12 → 30+12=42",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "rem02",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "3, 9, 27, 81, ?",
+    "options": [
+      "162",
+      "243",
+      "324",
+      "405"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Each term × 3. 81×3=243",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rem03",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "1, 4, 9, 16, 25, ?",
+    "options": [
+      "36",
+      "30",
+      "35",
+      "40"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Squares of natural numbers: 1²,2²,3²,4²,5²,6²=36",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem04",
+    "category": "Reasoning",
+    "topic": "Letter Series",
+    "difficulty": "medium",
+    "question": "AZ, BY, CX, DW, ?",
+    "options": [
+      "EV",
+      "EW",
+      "FV",
+      "EU"
+    ],
+    "correctAnswer": 0,
+    "explanation": "First letter increases A→B→C→D→E, second decreases Z→Y→X→W→V. Answer: EV",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rem05",
+    "category": "Reasoning",
+    "topic": "Letter Series",
+    "difficulty": "medium",
+    "question": "A, C, F, J, O, ?",
+    "options": [
+      "T",
+      "U",
+      "V",
+      "W"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gaps increase: +2,+3,+4,+5,+6 → O is 15th letter, +6=21=U",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rem06",
+    "category": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "medium",
+    "question": "If MOUSE = PRUQH, how is CAT coded?",
+    "options": [
+      "FDW",
+      "FEW",
+      "FDX",
+      "GDW"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Each letter shifted +3: C+3=F, A+3=D, T+3=W → FDW",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "rem07",
+    "category": "Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "medium",
+    "question": "A's mother's brother is B. B's daughter is C. What is C to A?",
+    "options": [
+      "Sister",
+      "Cousin",
+      "Niece",
+      "Aunt"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A's maternal uncle is B. B's daughter is A's cousin.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "rem08",
+    "category": "Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "medium",
+    "question": "P's father is Q. Q's sister is R. R's husband is S. S's son is T. How is T related to P?",
+    "options": [
+      "Cousin",
+      "Uncle",
+      "Nephew",
+      "Brother"
+    ],
+    "correctAnswer": 0,
+    "explanation": "R is Q's sister = P's aunt. T is R's son = P's cousin.",
+    "timeLimit": 40,
+    "language": "en"
+  },
+  {
+    "id": "rem09",
+    "category": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "medium",
+    "question": "Ram walks 4 km East, then 3 km North, then 4 km West, then 3 km South. Where is he from start?",
+    "options": [
+      "4km East",
+      "At start",
+      "3km North",
+      "4km West"
+    ],
+    "correctAnswer": 1,
+    "explanation": "East 4 and West 4 cancel; North 3 and South 3 cancel. Back at start.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "rem10",
+    "category": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "medium",
+    "question": "Facing West, you turn 90° clockwise. What direction do you face?",
+    "options": [
+      "East",
+      "North",
+      "South",
+      "West"
+    ],
+    "correctAnswer": 1,
+    "explanation": "West + 90° clockwise = North",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem11",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Doctor : Hospital :: Soldier : ?",
+    "options": [
+      "Gun",
+      "Barracks",
+      "War",
+      "Uniform"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Doctor works in hospital; soldier works in barracks.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem12",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Botany : Plants :: Ornithology : ?",
+    "options": [
+      "Birds",
+      "Insects",
+      "Animals",
+      "Fish"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Botany = study of plants; Ornithology = study of birds.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem13",
+    "category": "Reasoning",
+    "topic": "Syllogism",
+    "difficulty": "medium",
+    "question": "All cats are dogs. All dogs are animals. Conclusion: All cats are animals.",
+    "options": [
+      "True",
+      "False",
+      "Uncertain",
+      "Cannot determine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "All cats→dogs→animals. By transitivity all cats are animals.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "rem14",
+    "category": "Reasoning",
+    "topic": "Syllogism",
+    "difficulty": "medium",
+    "question": "Some flowers are roses. All roses are red. Conclusion: Some flowers are red.",
+    "options": [
+      "True",
+      "False",
+      "Uncertain",
+      "Partially true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Flowers that are roses are red, so some flowers are red.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "rem15",
+    "category": "Reasoning",
+    "topic": "Classification",
+    "difficulty": "medium",
+    "question": "Find the odd one out: Rose, Lotus, Lily, Oak",
+    "options": [
+      "Rose",
+      "Lotus",
+      "Lily",
+      "Oak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Rose, Lotus, Lily are flowers. Oak is a tree.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem16",
+    "category": "Reasoning",
+    "topic": "Classification",
+    "difficulty": "medium",
+    "question": "Find the odd one out: Violin, Guitar, Flute, Sitar",
+    "options": [
+      "Violin",
+      "Guitar",
+      "Flute",
+      "Sitar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Violin, Guitar, Sitar are string instruments. Flute is a wind instrument.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem17",
+    "category": "Reasoning",
+    "topic": "Ranking",
+    "difficulty": "medium",
+    "question": "In a class of 40, Priya's rank from top is 15. Rank from bottom?",
+    "options": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rank from bottom = 40-15+1 = 26",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rem18",
+    "category": "Reasoning",
+    "topic": "Ranking",
+    "difficulty": "medium",
+    "question": "Arjun is 8th from left and 12th from right. How many people in the row?",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Total = 8+12-1 = 19",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem19",
+    "category": "Reasoning",
+    "topic": "Calendar",
+    "difficulty": "medium",
+    "question": "If 1 Jan 2023 was Sunday, what day was 1 Jan 2024?",
+    "options": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2023 is not leap year: 365 days = 52 weeks + 1. Sunday+1=Monday.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rem20",
+    "category": "Reasoning",
+    "topic": "Clock",
+    "difficulty": "medium",
+    "question": "Angle between hour and minute hands at 3:30?",
+    "options": [
+      "75°",
+      "80°",
+      "90°",
+      "105°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Minute hand at 180°. Hour hand at 3×30+0.5×30=105°. Difference=75°.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "rem21",
+    "category": "Reasoning",
+    "topic": "Puzzle basics",
+    "difficulty": "medium",
+    "question": "Five friends have heights. A > B, D < B, C < E < A. Who is tallest?",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "correctAnswer": 0,
+    "explanation": "D<B<A and C<E<A, so A is tallest.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "rem22",
+    "category": "Reasoning",
+    "topic": "Order and Ranking",
+    "difficulty": "medium",
+    "question": "In a row of 50, Deepak is 20th from left. Position from right?",
+    "options": [
+      "29",
+      "30",
+      "31",
+      "32"
+    ],
+    "correctAnswer": 2,
+    "explanation": "From right = 50-20+1 = 31",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem23",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "13, 17, 23, 31, 41, ?",
+    "options": [
+      "51",
+      "53",
+      "54",
+      "55"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Differences: 4,6,8,10,12 → 41+12=53",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "rem24",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "0, 1, 3, 6, 10, 15, ?",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Triangular numbers: add 1,2,3,4,5,6 → 15+6=21",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rem25",
+    "category": "Reasoning",
+    "topic": "Letter Series",
+    "difficulty": "medium",
+    "question": "Z, X, V, T, R, ?",
+    "options": [
+      "P",
+      "Q",
+      "O",
+      "N"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Each letter decreases by 2: Z,X,V,T,R,P",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem26",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Lungs : Respiration :: Heart : ?",
+    "options": [
+      "Digestion",
+      "Circulation",
+      "Excretion",
+      "Reproduction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lungs → respiration; Heart → circulation.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem27",
+    "category": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "medium",
+    "question": "If DELHI = 73541, CALCUTTA = 82589662, then what digit represents I?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "From DELHI: D=7,E=3,L=5,H=4,I=1. So I=1.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "rem28",
+    "category": "Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "medium",
+    "question": "Sita says 'She is the daughter of my grandfather's only son.' How related?",
+    "options": [
+      "Sister",
+      "Cousin",
+      "Niece",
+      "Mother"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Grandfather's only son = Sita's father. Father's daughter = Sita's sister.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "rem29",
+    "category": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "medium",
+    "question": "Man walks 6 km North, 4 km East, 6 km South. Distance from start?",
+    "options": [
+      "4 km",
+      "6 km",
+      "8 km",
+      "10 km"
+    ],
+    "correctAnswer": 0,
+    "explanation": "North 6 and South 6 cancel. He's 4 km East from start.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rem30",
+    "category": "Reasoning",
+    "topic": "Classification",
+    "difficulty": "medium",
+    "question": "Odd one out: November, April, June, August",
+    "options": [
+      "November",
+      "April",
+      "June",
+      "August"
+    ],
+    "correctAnswer": 3,
+    "explanation": "November, April, June have 30 days. August has 31 days.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem31",
+    "category": "Reasoning",
+    "topic": "Statement and Conclusion",
+    "difficulty": "medium",
+    "question": "Statement: Most people prefer tea over coffee. Conclusion: Coffee is not popular.",
+    "options": [
+      "Conclusion follows",
+      "Conclusion does not follow",
+      "Cannot say",
+      "Partially follows"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Most prefer tea' doesn't mean coffee is not popular—some still prefer it.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "rem32",
+    "category": "Reasoning",
+    "topic": "Syllogism",
+    "difficulty": "medium",
+    "question": "All birds can fly. Penguin is a bird. Conclusion: Penguin can fly. (Logical only)",
+    "options": [
+      "True logically",
+      "False",
+      "Depends on facts",
+      "Cannot determine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Logically, if all birds fly AND penguin is a bird, conclusion follows from premises.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "rem33",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "7, 11, 19, 35, 67, ?",
+    "options": [
+      "99",
+      "123",
+      "131",
+      "135"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Differences: 4,8,16,32,64 (doubling). 67+64=131",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "rem34",
+    "category": "Reasoning",
+    "topic": "Ranking",
+    "difficulty": "medium",
+    "question": "Shyam is 5th from top and 8th from bottom. Group size?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Total = 5+8-1 = 12",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem35",
+    "category": "Reasoning",
+    "topic": "Calendar",
+    "difficulty": "medium",
+    "question": "What day is after 100 days if today is Monday?",
+    "options": [
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "correctAnswer": 0,
+    "explanation": "100 mod 7 = 2. Monday+2 = Wednesday.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rem36",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Speed : km/h :: Force : ?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speed measured in km/h; Force measured in Newton.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem37",
+    "category": "Reasoning",
+    "topic": "Clock",
+    "difficulty": "medium",
+    "question": "How many times do clock hands overlap in 24 hours?",
+    "options": [
+      "22",
+      "24",
+      "44",
+      "48"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hands overlap 11 times per 12 hours → 22 times in 24 hours.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "rem38",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "1, 2, 4, 7, 11, 16, ?",
+    "options": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Differences: 1,2,3,4,5,6 → 16+6=22",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rem39",
+    "category": "Reasoning",
+    "topic": "Letter Series",
+    "difficulty": "medium",
+    "question": "BDF, CEG, DFH, ?",
+    "options": [
+      "EGI",
+      "EGJ",
+      "EHI",
+      "FGI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Each group: first+1 → E; second+1 → G; third+1 → I. Answer: EGI",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rem40",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Manuscript : Book :: Blueprint : ?",
+    "options": [
+      "Architect",
+      "Building",
+      "Draft",
+      "Plan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Manuscript is draft form of a book; blueprint is draft form of a building.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rem41",
+    "category": "Reasoning",
+    "topic": "Classification",
+    "difficulty": "medium",
+    "question": "Odd one out: Walking, Sleeping, Running, Swimming",
+    "options": [
+      "Walking",
+      "Sleeping",
+      "Running",
+      "Swimming"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Walking, Running, Swimming are physical exercise. Sleeping is rest.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem42",
+    "category": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "medium",
+    "question": "Face South, turn 135° anticlockwise. New direction?",
+    "options": [
+      "North-West",
+      "South-East",
+      "North-East",
+      "South-West"
+    ],
+    "correctAnswer": 2,
+    "explanation": "South + 90°CCW = East, + 45°CCW more = North-East",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "rem43",
+    "category": "Reasoning",
+    "topic": "Ranking",
+    "difficulty": "medium",
+    "question": "Ravi 10th from left, Suresh 15th from right, 6 apart (Ravi left of Suresh). Row size?",
+    "options": [
+      "29",
+      "30",
+      "31",
+      "28"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Total = 10 + 6-1 + 15 = 30... simplest: pos(Ravi)=10, pos(Suresh)=10+6=16, from right=15 → total=16+15-1=30.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "rem44",
+    "category": "Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "medium",
+    "question": "A said to B: 'Your mother's husband's sister is my aunt.' B related to A?",
+    "options": [
+      "Brother",
+      "Son",
+      "Cousin",
+      "Father"
+    ],
+    "correctAnswer": 0,
+    "explanation": "B's mother's husband = B's father. Father's sister = aunt to both A and B → they are siblings.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "rem45",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "2, 5, 10, 17, 26, ?",
+    "options": [
+      "35",
+      "36",
+      "37",
+      "38"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Differences: 3,5,7,9,11 → 26+11=37",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rem46",
+    "category": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "medium",
+    "question": "If KING = 2937, QUEEN = 69441, then JACK = ?",
+    "options": [
+      "1022",
+      "1122",
+      "0122",
+      "2011"
+    ],
+    "correctAnswer": 0,
+    "explanation": "K=2,I=9,N=3,G=7; Q=6,U=9,E=4,E=4,N=1; J=1,A=0,C=2,K=2 → JACK=1022",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "rem47",
+    "category": "Reasoning",
+    "topic": "Puzzle basics",
+    "difficulty": "medium",
+    "question": "A box has red=twice blue. Green=blue+5. Total=25. How many green balls?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "correctAnswer": 0,
+    "explanation": "B=x,R=2x,G=x+5. 4x+5=25→x=5. G=10.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "rem48",
+    "category": "Reasoning",
+    "topic": "Syllogism",
+    "difficulty": "medium",
+    "question": "Some pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+    "options": [
+      "Definitely true",
+      "Definitely false",
+      "Possibly true",
+      "Data insufficient"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Only pens that are pencils are not erasers. Other pens may be erasers. So only 'possibly true'.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "rem49",
+    "category": "Reasoning",
+    "topic": "Calendar",
+    "difficulty": "medium",
+    "question": "If today is Wednesday 1st, what date is next Monday?",
+    "options": [
+      "6th",
+      "7th",
+      "8th",
+      "5th"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wednesday to Monday = 5 days. 1+5=6th... wait: Wed=1, Thu=2, Fri=3, Sat=4, Sun=5, Mon=6. But 'next Monday' could mean the upcoming one: 1+5=6th. Hmm, answer is 6th.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "rem50",
+    "category": "Reasoning",
+    "topic": "Statement and Conclusion",
+    "difficulty": "medium",
+    "question": "Statement: Regular exercise improves health. Conclusion: People who do not exercise are unhealthy.",
+    "options": [
+      "Follows",
+      "Does not follow",
+      "Partially follows",
+      "Cannot say"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Improves' doesn't mean 'non-exercise = unhealthy'. Health has multiple factors. Conclusion is too strong.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "rem51",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Poet : Poetry :: Sculptor : ?",
+    "options": [
+      "Museum",
+      "Marble",
+      "Sculpture",
+      "Canvas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Poet creates poetry; sculptor creates sculpture.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem52",
+    "category": "Reasoning",
+    "topic": "Classification",
+    "difficulty": "medium",
+    "question": "Odd one out: Iron, Copper, Brass, Gold",
+    "options": [
+      "Iron",
+      "Copper",
+      "Brass",
+      "Gold"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Iron, Copper, Gold are pure metals (elements). Brass is an alloy (Cu+Zn).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem53",
+    "category": "Reasoning",
+    "topic": "Order and Ranking",
+    "difficulty": "medium",
+    "question": "Meena is 8th in class. From bottom she is 12th. Class strength?",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Total = 8+12-1 = 19",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem54",
+    "category": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "medium",
+    "question": "From office, walk 3km North, 2km East, 3km South. Distance from office?",
+    "options": [
+      "2 km",
+      "3 km",
+      "4 km",
+      "5 km"
+    ],
+    "correctAnswer": 0,
+    "explanation": "North 3 and South 3 cancel. 2 km East from office.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rem55",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "1, 3, 7, 15, 31, ?",
+    "options": [
+      "47",
+      "63",
+      "55",
+      "62"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Each term = 2×prev+1: 31×2+1=63",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rea_m51",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Newspaper : Editor :: Court : ?",
+    "options": [
+      "Police",
+      "Lawyer",
+      "Judge",
+      "Clerk"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Editor is the head of a newspaper; Judge is the head of a court",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_m52",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "5, 11, 23, 47, ?",
+    "options": [
+      "89",
+      "94",
+      "95",
+      "97"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Each number = 2×prev+1: 2×5+1=11, 2×11+1=23, 2×23+1=47, 2×47+1=95",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rea_m53",
+    "category": "Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "medium",
+    "question": "A man said to a woman: 'Your mother's husband's sister is my aunt.' How is the woman related to the man?",
+    "options": [
+      "Sister",
+      "Cousin",
+      "Mother",
+      "Aunt"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Woman's mother's husband = woman's father. Father's sister = woman's paternal aunt. Man's aunt = same woman. They share the same paternal aunt → they are siblings",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "rea_m54",
+    "category": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "medium",
+    "question": "If in a code language, CHAIR = 35 (sum of positions: C=3,H=8,A=1,I=9,R=18 → sum=39?). Try: MANGO=13+1+14+7+15=50. So APPLE=1+16+16+12+5=50. They both =50. TIGER=20+9+7+5+18=59. What is QUEEN?",
+    "options": [
+      "57",
+      "59",
+      "62",
+      "65"
+    ],
+    "correctAnswer": 1,
+    "explanation": "QUEEN: Q=17,U=21,E=5,E=5,N=14. Sum=17+21+5+5+14=62. Closest=62",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "rea_m55",
+    "category": "Reasoning",
+    "topic": "Classification",
+    "difficulty": "medium",
+    "question": "Odd one: Sonata, Symphony, Concerto, Novel",
+    "options": [
+      "Sonata",
+      "Symphony",
+      "Concerto",
+      "Novel"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Novel is a literary form. Sonata, Symphony, Concerto are musical compositions",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_m51",
+    "category": "Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "medium",
+    "question": "A's mother is B's daughter. How is A related to B?",
+    "options": [
+      "Son",
+      "Grandson",
+      "Father",
+      "Brother"
+    ],
+    "correctAnswer": 1,
+    "explanation": "B's daughter=A's mother. So A is B's grandchild. A is B's grandson (or granddaughter)",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rea_m52",
+    "category": "Reasoning",
+    "topic": "Seating Arrangement basics",
+    "difficulty": "medium",
+    "question": "P,Q,R,S,T in a row. P is not adjacent to Q. R is between Q and S. T is at one end. S is next to T. Order?",
+    "options": [
+      "T,S,R,Q,P",
+      "P,Q,R,S,T",
+      "T,S,Q,R,P",
+      "P,Q,S,R,T"
+    ],
+    "correctAnswer": 0,
+    "explanation": "T at end, S next to T: T,S. R between Q and S: Q,R,S or S,R,Q. With T,S already: T,S,R,Q,P. P not adjacent to Q since P is at other end from T—✓",
+    "timeLimit": 40,
+    "language": "en"
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "id": "gkh01",
+    "category": "GK",
+    "topic": "Indian Constitution",
+    "difficulty": "hard",
+    "question": "The Concurrent List in the Indian Constitution originally had how many subjects?",
+    "options": [
+      "40",
+      "47",
+      "52",
+      "66"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Concurrent List originally had 47 subjects. Currently it has 52 subjects.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh02",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "hard",
+    "question": "Which Article empowers the President to proclaim National Emergency?",
+    "options": [
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 365"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Article 352 empowers the President to proclaim National Emergency on grounds of war, external aggression, or armed rebellion.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh03",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "hard",
+    "question": "Constitutional Amendment requires a special majority. What is it?",
+    "options": [
+      "Two-thirds of total members",
+      "Two-thirds present and voting + majority of total",
+      "Simple majority",
+      "Three-fourths majority"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article 368: Special majority = 2/3 of members present and voting AND majority of total membership of each house.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh04",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "hard",
+    "question": "The Laffer Curve is associated with which economic concept?",
+    "options": [
+      "Trade policy",
+      "Tax rate vs tax revenue relationship",
+      "Inflation vs unemployment",
+      "Money supply"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Laffer Curve illustrates the relationship between tax rates and total tax revenue — there's an optimal rate.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh05",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "hard",
+    "question": "Phillips Curve shows the relationship between:",
+    "options": [
+      "Inflation and GDP",
+      "Unemployment and inflation",
+      "Interest rates and investment",
+      "Exports and imports"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Phillips Curve shows the inverse relationship between unemployment and inflation.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh06",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "hard",
+    "question": "The 'Cabinet Mission Plan' (1946) was headed by:",
+    "options": [
+      "Lord Wavell",
+      "Lord Attlee",
+      "Lord Pethick-Lawrence",
+      "Sir Stafford Cripps"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Cabinet Mission (1946) was headed by Lord Pethick-Lawrence, Secretary of State for India.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh07",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "hard",
+    "question": "The Champaran Satyagraha (1917) was Gandhi's first civil disobedience in India. It was against:",
+    "options": [
+      "Salt tax",
+      "Indigo plantation system",
+      "Khilafat issue",
+      "Rowlatt Act"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Champaran Satyagraha (1917) was against the forced cultivation of indigo by British planters.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh08",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "hard",
+    "question": "Who proposed the Partition of Bengal in 1905?",
+    "options": [
+      "Lord Curzon",
+      "Lord Mountbatten",
+      "Lord Dalhousie",
+      "Lord Ripon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lord Curzon, the Viceroy, partitioned Bengal in 1905 — which sparked the Swadeshi Movement.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh09",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "hard",
+    "question": "The ISRO's Mars Orbiter Mission (Mangalyaan) was launched in:",
+    "options": [
+      "2012",
+      "2013",
+      "2014",
+      "2015"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mangalyaan was launched on 5 November 2013 and reached Mars orbit on 24 September 2014.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh10",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "hard",
+    "question": "The Chandrasekhar Limit is related to:",
+    "options": [
+      "Black holes",
+      "White dwarf stars",
+      "Neutron stars",
+      "Red giants"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Chandrasekhar Limit (1.4 solar masses) is the maximum mass of a stable white dwarf star.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh11",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "hard",
+    "question": "The tropic of Cancer passes through how many Indian states?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Tropic of Cancer passes through 8 Indian states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh12",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "hard",
+    "question": "The Palk Strait separates India from:",
+    "options": [
+      "Sri Lanka",
+      "Maldives",
+      "Bangladesh",
+      "Myanmar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Palk Strait separates the Indian state of Tamil Nadu from Sri Lanka.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh13",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "hard",
+    "question": "Which Constitutional body investigates allegations of corruption against public servants?",
+    "options": [
+      "NHRC",
+      "CBI",
+      "CVC",
+      "Lokpal"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Central Vigilance Commission (CVC) is a Constitutional body that investigates corruption.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh14",
+    "category": "GK",
+    "topic": "Awards and Honours",
+    "difficulty": "hard",
+    "question": "The Dadasaheb Phalke Award is given for lifetime achievement in:",
+    "options": [
+      "Theatre",
+      "Cinema",
+      "Music",
+      "Literature"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Dadasaheb Phalke Award is given for outstanding contribution to Indian cinema.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh15",
+    "category": "GK",
+    "topic": "Famous Personalities",
+    "difficulty": "hard",
+    "question": "Who was the first woman to climb Mount Everest?",
+    "options": [
+      "Bachendri Pal",
+      "Junko Tabei",
+      "Arunima Sinha",
+      "Santosh Yadav"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Junko Tabei of Japan was the first woman to summit Everest (1975). Bachendri Pal was the first Indian woman (1984).",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh16",
+    "category": "GK",
+    "topic": "Books and Authors",
+    "difficulty": "hard",
+    "question": "'Indica' was written by which ancient Greek author?",
+    "options": [
+      "Herodotus",
+      "Megasthenes",
+      "Ptolemy",
+      "Strabo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Indica' was written by Megasthenes, a Greek ambassador to the court of Chandragupta Maurya.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh17",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "hard",
+    "question": "NABARD stands for:",
+    "options": [
+      "National Agriculture Bank for Rural Development",
+      "National Bank for Agriculture and Rural Development",
+      "National Agricultural and Backward Region Development",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NABARD = National Bank for Agriculture and Rural Development, apex development bank for rural sector.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh18",
+    "category": "GK",
+    "topic": "Indian Constitution",
+    "difficulty": "hard",
+    "question": "The Preamble of the Indian Constitution was inspired by the Objective Resolution moved by:",
+    "options": [
+      "B.R. Ambedkar",
+      "Sardar Patel",
+      "Jawaharlal Nehru",
+      "Rajendra Prasad"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Objective Resolution was moved by Jawaharlal Nehru in the Constituent Assembly in December 1946.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh19",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "hard",
+    "question": "The Vijayanagara Empire was founded in:",
+    "options": [
+      "1336",
+      "1206",
+      "1526",
+      "1674"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Vijayanagara Empire was founded in 1336 by Harihara I and Bukka Raya I.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh20",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "hard",
+    "question": "The first Indian satellite, Aryabhata, was launched in:",
+    "options": [
+      "1972",
+      "1975",
+      "1980",
+      "1983"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aryabhata, India's first satellite, was launched on 19 April 1975 by the Soviet Union from Kapustin Yar.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh21",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "hard",
+    "question": "DPSP under Article 44 deals with:",
+    "options": [
+      "Right to work",
+      "Uniform Civil Code",
+      "Protection of environment",
+      "Free legal aid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article 44 (DPSP) directs the State to secure a Uniform Civil Code for all citizens.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh22",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "hard",
+    "question": "EXIM Bank stands for:",
+    "options": [
+      "Export-Import Bank of India",
+      "External-Internal Ministry Bank",
+      "Exchange and Import Bank",
+      "None of these"
+    ],
+    "correctAnswer": 0,
+    "explanation": "EXIM Bank (Export-Import Bank of India) provides financing for India's international trade.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh23",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "hard",
+    "question": "Which Indian state has no international border?",
+    "options": [
+      "Chhattisgarh",
+      "Rajasthan",
+      "Assam",
+      "Mizoram"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chhattisgarh is a landlocked state with no international border — bordered only by Indian states.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh24",
+    "category": "GK",
+    "topic": "Famous Personalities",
+    "difficulty": "hard",
+    "question": "Who founded the Brahmo Samaj?",
+    "options": [
+      "Swami Vivekananda",
+      "Dayananda Saraswati",
+      "Raja Ram Mohan Roy",
+      "Sri Aurobindo"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Raja Ram Mohan Roy founded the Brahmo Samaj in 1828, a monotheistic Hindu reform movement.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh25",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "hard",
+    "question": "The Third Battle of Panipat (1761) was fought between:",
+    "options": [
+      "Marathas and Mughals",
+      "Marathas and Ahmad Shah Abdali",
+      "British and Marathas",
+      "Sikhs and Mughals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Third Battle of Panipat (1761) was between the Marathas and Ahmad Shah Durrani (Abdali), resulting in a decisive defeat for the Marathas.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh26",
+    "category": "GK",
+    "topic": "Indian Constitution",
+    "difficulty": "hard",
+    "question": "The financial emergency is governed by which Article?",
+    "options": [
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 370"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article 360 provides for the proclamation of Financial Emergency when the financial stability of India is threatened.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh27",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "hard",
+    "question": "The Maastricht Treaty established which economic union?",
+    "options": [
+      "ASEAN",
+      "BRICS",
+      "European Union",
+      "G7"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Maastricht Treaty (1992) established the European Union and paved the way for economic and monetary union.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh28",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "hard",
+    "question": "The term 'Ecology' was coined by:",
+    "options": [
+      "Charles Darwin",
+      "Ernst Haeckel",
+      "Alexander von Humboldt",
+      "Gregor Mendel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ernst Haeckel coined the term 'ecology' (Ökologie) in 1866.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh29",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "hard",
+    "question": "Who gave the title 'Mahatma' to Gandhi?",
+    "options": [
+      "Rabindranath Tagore",
+      "Bal Gangadhar Tilak",
+      "Gopal Krishna Gokhale",
+      "Sarojini Naidu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rabindranath Tagore is credited with bestowing the title 'Mahatma' on Mohandas Karamchand Gandhi.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "gkh30",
+    "category": "GK",
+    "topic": "Awards and Honours",
+    "difficulty": "hard",
+    "question": "The Ramon Magsaysay Award is given by which country?",
+    "options": [
+      "India",
+      "USA",
+      "Philippines",
+      "Japan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Ramon Magsaysay Award is an annual award established in the Philippines, given to Asian individuals for public service.",
+    "timeLimit": 35,
+    "language": "en"
+  }
+]

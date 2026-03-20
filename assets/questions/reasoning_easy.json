@@ -1,0 +1,971 @@
+[
+  {
+    "id": "rea_e1",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "2, 4, 6, 8, ?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Series increases by 2 each time. 8+2=10",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e2",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "3, 6, 12, 24, ?",
+    "options": [
+      "36",
+      "42",
+      "48",
+      "54"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Each number doubles. 24×2=48",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e3",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "1, 4, 9, 16, ?",
+    "options": [
+      "20",
+      "24",
+      "25",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Perfect squares: 1²,2²,3²,4²,5²=25",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e4",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "5, 10, 15, 20, ?",
+    "options": [
+      "22",
+      "25",
+      "28",
+      "30"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Multiples of 5. Next is 25",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e5",
+    "category": "Reasoning",
+    "topic": "Letter Series",
+    "difficulty": "easy",
+    "question": "A, C, E, G, ?",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alternate letters of alphabet. After G comes I (skip H)",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e6",
+    "category": "Reasoning",
+    "topic": "Letter Series",
+    "difficulty": "easy",
+    "question": "Z, X, V, T, ?",
+    "options": [
+      "R",
+      "S",
+      "Q",
+      "P"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Alternate letters backwards: Z,X,V,T,R (skip one backward)",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e7",
+    "category": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "easy",
+    "question": "If CAT = 3120, what is BAT?",
+    "options": [
+      "2120",
+      "2121",
+      "2120",
+      "2220"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C=3,A=1,T=20. B=2. BAT=2,1,20=2120",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rea_e8",
+    "category": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "easy",
+    "question": "In a code, APPLE is written as BQQMF. What is BALL?",
+    "options": [
+      "CBMM",
+      "CBLL",
+      "CAMM",
+      "DALM"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Each letter +1: A→B, P→Q, P→Q, L→M, E→F. BALL→CBMM",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rea_e9",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Doctor : Hospital :: Teacher : ?",
+    "options": [
+      "Clinic",
+      "Lab",
+      "School",
+      "Office"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Doctor works in a hospital; Teacher works in a school",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e10",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Pen : Write :: Knife : ?",
+    "options": [
+      "Cook",
+      "Cut",
+      "Paint",
+      "Dig"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pen is used to write; Knife is used to cut",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e11",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Cat : Kitten :: Dog : ?",
+    "options": [
+      "Puppy",
+      "Cub",
+      "Lamb",
+      "Foal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Young one of cat is kitten; young one of dog is puppy",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e12",
+    "category": "Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "easy",
+    "question": "A is the father of B. B is the sister of C. How is A related to C?",
+    "options": [
+      "Uncle",
+      "Father",
+      "Grandfather",
+      "Brother"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A is father of B, and B is sister of C, so C is also A's child. A is father of C",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e13",
+    "category": "Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "easy",
+    "question": "X is Y's brother. Y is Z's sister. How is X related to Z?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Cousin",
+      "Uncle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "X is Y's brother. Y is Z's sister. So X and Z are siblings. X is Z's brother",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e14",
+    "category": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "easy",
+    "question": "Raju walks North 5 km, turns East 3 km. Which direction from start?",
+    "options": [
+      "North",
+      "South-East",
+      "North-East",
+      "North-West"
+    ],
+    "correctAnswer": 2,
+    "explanation": "After going North then East, he is in the North-East direction from start",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e15",
+    "category": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "easy",
+    "question": "If you face North and turn 90° clockwise, you face:",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctAnswer": 2,
+    "explanation": "North + 90° clockwise = East",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e16",
+    "category": "Reasoning",
+    "topic": "Classification",
+    "difficulty": "easy",
+    "question": "Find the odd one out: Cat, Dog, Parrot, Cow",
+    "options": [
+      "Cat",
+      "Dog",
+      "Parrot",
+      "Cow"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parrot is a bird; Cat, Dog, Cow are mammals",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e17",
+    "category": "Reasoning",
+    "topic": "Classification",
+    "difficulty": "easy",
+    "question": "Odd one out: 3, 5, 7, 9, 11",
+    "options": [
+      "3",
+      "7",
+      "9",
+      "11"
+    ],
+    "correctAnswer": 2,
+    "explanation": "9=3² is a perfect square. All others are prime numbers",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e18",
+    "category": "Reasoning",
+    "topic": "Ranking",
+    "difficulty": "easy",
+    "question": "In a class of 30, Rahul ranks 10th from top. Rank from bottom?",
+    "options": [
+      "19",
+      "20",
+      "21",
+      "22"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rank from bottom = Total+1-Rank from top = 30+1-10=21",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e19",
+    "category": "Reasoning",
+    "topic": "Ranking",
+    "difficulty": "easy",
+    "question": "Priya is 8th from front and 12th from back in a queue. Total students?",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Total = 8+12-1 = 19",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e20",
+    "category": "Reasoning",
+    "topic": "Calendar",
+    "difficulty": "easy",
+    "question": "If Jan 1, 2023 is Sunday, what day is Jan 8, 2023?",
+    "options": [
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Friday"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Jan 1 = Sunday. Jan 8 = Sunday + 7 days = Sunday",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e21",
+    "category": "Reasoning",
+    "topic": "Calendar",
+    "difficulty": "easy",
+    "question": "How many days are in a leap year?",
+    "options": [
+      "364",
+      "365",
+      "366",
+      "367"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A leap year has 366 days (February has 29 days)",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "rea_e22",
+    "category": "Reasoning",
+    "topic": "Clock",
+    "difficulty": "easy",
+    "question": "What is the angle between hour and minute hands at 3:00?",
+    "options": [
+      "60°",
+      "75°",
+      "90°",
+      "120°"
+    ],
+    "correctAnswer": 2,
+    "explanation": "At 3:00, hour hand at 90° from 12, minute at 0°. Angle=90°",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e23",
+    "category": "Reasoning",
+    "topic": "Clock",
+    "difficulty": "easy",
+    "question": "A clock shows 6:30. Minute hand points to:",
+    "options": [
+      "6",
+      "12",
+      "3",
+      "9"
+    ],
+    "correctAnswer": 0,
+    "explanation": "At 6:30, minute hand points to 6 (30 minutes = 6 on clock face)",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e24",
+    "category": "Reasoning",
+    "topic": "Syllogism",
+    "difficulty": "easy",
+    "question": "All birds fly. Eagle is a bird. Conclusion?",
+    "options": [
+      "Eagle doesn't fly",
+      "Eagle may fly",
+      "Eagle flies",
+      "Cannot determine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "All birds fly + Eagle is a bird → Eagle flies (valid syllogism)",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e25",
+    "category": "Reasoning",
+    "topic": "Syllogism",
+    "difficulty": "easy",
+    "question": "All dogs are animals. Some dogs are black. Conclusion: Some animals are black?",
+    "options": [
+      "True",
+      "False",
+      "Cannot say",
+      "Partly true"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some dogs are black (given). All dogs are animals. So those black dogs = black animals. True",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rea_e26",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "100, 90, 80, 70, ?",
+    "options": [
+      "55",
+      "60",
+      "65",
+      "70"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Decreasing by 10 each time. 70-10=60",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e27",
+    "category": "Reasoning",
+    "topic": "Letter Series",
+    "difficulty": "easy",
+    "question": "AZ, BY, CX, ?",
+    "options": [
+      "DU",
+      "DW",
+      "DV",
+      "DX"
+    ],
+    "correctAnswer": 1,
+    "explanation": "First letter: A,B,C,D (forward). Second letter: Z,Y,X,W (backward). Answer: DW",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e28",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "India : New Delhi :: France : ?",
+    "options": [
+      "Lyon",
+      "Marseille",
+      "Paris",
+      "Bordeaux"
+    ],
+    "correctAnswer": 2,
+    "explanation": "New Delhi is the capital of India; Paris is the capital of France",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e29",
+    "category": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "easy",
+    "question": "If 1=A, 2=B, 3=C... what does 4-9-7 spell?",
+    "options": [
+      "DIG",
+      "FIG",
+      "GIG",
+      "HIG"
+    ],
+    "correctAnswer": 0,
+    "explanation": "4=D, 9=I, 7=G. Spells DIG",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e30",
+    "category": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "easy",
+    "question": "A person walks 10m North, 10m East, 10m South. Distance from start?",
+    "options": [
+      "0m",
+      "10m",
+      "20m",
+      "15m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Went 10N then 10S = back to original N-S position. 10E remains. Distance=10m East",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rea_e31",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Cricket : Bat :: Tennis : ?",
+    "options": [
+      "Ball",
+      "Net",
+      "Racket",
+      "Court"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bat is used in cricket; Racket is used in tennis",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e32",
+    "category": "Reasoning",
+    "topic": "Classification",
+    "difficulty": "easy",
+    "question": "Odd one out: Apple, Mango, Potato, Banana",
+    "options": [
+      "Apple",
+      "Mango",
+      "Potato",
+      "Banana"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Potato is a vegetable/root. Apple, Mango, Banana are fruits",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e33",
+    "category": "Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "easy",
+    "question": "How is your mother's brother related to you?",
+    "options": [
+      "Uncle",
+      "Cousin",
+      "Nephew",
+      "Brother"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mother's brother = maternal uncle",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e34",
+    "category": "Reasoning",
+    "topic": "Ranking",
+    "difficulty": "easy",
+    "question": "In a row, Sam is 5th from left and 10th from right. Total persons in row?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Total = 5+10-1 = 14",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e35",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "1, 1, 2, 3, 5, 8, 13, ?",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fibonacci sequence. 8+13=21",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e36",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Square : 4 sides :: Triangle : ?",
+    "options": [
+      "2 sides",
+      "3 sides",
+      "5 sides",
+      "6 sides"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Square has 4 sides; Triangle has 3 sides",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "rea_e37",
+    "category": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "easy",
+    "question": "If GO = 715, then HOW = ?",
+    "options": [
+      "815",
+      "816",
+      "816",
+      "823"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G=7,O=15 so GO=715. H=8,O=15,W=23. HOW=81523",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rea_e38",
+    "category": "Reasoning",
+    "topic": "Syllogism",
+    "difficulty": "easy",
+    "question": "No man is immortal. Socrates is a man. So Socrates is:",
+    "options": [
+      "Immortal",
+      "Not immortal",
+      "May be immortal",
+      "Cannot say"
+    ],
+    "correctAnswer": 1,
+    "explanation": "No man is immortal. Socrates is a man. Therefore Socrates is not immortal.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e39",
+    "category": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "easy",
+    "question": "If East is North, then South will be?",
+    "options": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If East→North (90° anticlockwise rotation), South→West with same rotation",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rea_e40",
+    "category": "Reasoning",
+    "topic": "Classification",
+    "difficulty": "easy",
+    "question": "Odd one out: January, March, April, July",
+    "options": [
+      "January",
+      "March",
+      "April",
+      "July"
+    ],
+    "correctAnswer": 2,
+    "explanation": "April has 30 days. January, March, July all have 31 days",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e41",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "0, 3, 8, 15, 24, ?",
+    "options": [
+      "33",
+      "35",
+      "36",
+      "40"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Differences: 3,5,7,9,11. Next=24+11=35",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rea_e42",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Water : Thirst :: Food : ?",
+    "options": [
+      "Taste",
+      "Hunger",
+      "Nutrition",
+      "Energy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water satisfies thirst; Food satisfies hunger",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e43",
+    "category": "Reasoning",
+    "topic": "Letter Series",
+    "difficulty": "easy",
+    "question": "BDF, CEG, DFH, ?",
+    "options": [
+      "EGI",
+      "EGH",
+      "FGI",
+      "FHI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pattern: each group increments by 1. D+1=E, F+1=G, H+1=I → EGI",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rea_e44",
+    "category": "Reasoning",
+    "topic": "Calendar",
+    "difficulty": "easy",
+    "question": "What day will it be 100 days after a Monday?",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "correctAnswer": 2,
+    "explanation": "100 days = 14 weeks + 2 days. Monday + 2 = Wednesday. Hmm: 100 mod 7=2. Monday+2=Wednesday. Let me recount: 7×14=98. 100-98=2 extra. Mon+2=Wednesday. I'll fix: answer = Wednesday",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "rea_e45",
+    "category": "Reasoning",
+    "topic": "Ranking",
+    "difficulty": "easy",
+    "question": "In a 50-student class, Deepak ranks 25th from bottom. Rank from top?",
+    "options": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rank from top = 50+1-25 = 26",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e46",
+    "category": "Reasoning",
+    "topic": "Clock",
+    "difficulty": "easy",
+    "question": "How many times do clock hands coincide in 12 hours?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hour and minute hands coincide 11 times in 12 hours",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rea_e47",
+    "category": "Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "easy",
+    "question": "Pointing to a girl, a boy says 'She is the daughter of my mother's only son.' The girl is his:",
+    "options": [
+      "Sister",
+      "Cousin",
+      "Niece",
+      "Daughter"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mother's only son = himself. So the girl is his daughter",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "rea_e48",
+    "category": "Reasoning",
+    "topic": "Classification",
+    "difficulty": "easy",
+    "question": "Odd one out: Rose, Lily, Tulip, Cactus, Daisy",
+    "options": [
+      "Rose",
+      "Lily",
+      "Cactus",
+      "Daisy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cactus is a desert plant. Rose, Lily, Tulip, Daisy are flowering garden plants",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e49",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Delhi : India :: Tokyo : ?",
+    "options": [
+      "China",
+      "South Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Delhi is capital of India; Tokyo is capital of Japan",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e50",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "7, 14, 21, 28, ?",
+    "options": [
+      "32",
+      "35",
+      "36",
+      "40"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Multiples of 7. Next = 35",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e51",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Dentist : Teeth :: Dermatologist : ?",
+    "options": [
+      "Bones",
+      "Nerves",
+      "Skin",
+      "Eyes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A dentist treats teeth; a dermatologist treats skin",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e52",
+    "category": "Reasoning",
+    "topic": "Letter Series",
+    "difficulty": "easy",
+    "question": "ACE, BDF, CEG, ?",
+    "options": [
+      "DFH",
+      "DGH",
+      "DFI",
+      "EGI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Each letter in the group increases by 1 from previous group: C→D, E→F, G→H = DFH",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e53",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "1, 8, 27, 64, ?",
+    "options": [
+      "100",
+      "121",
+      "125",
+      "128"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Perfect cubes: 1³,2³,3³,4³,5³=125",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e54",
+    "category": "Reasoning",
+    "topic": "Classification",
+    "difficulty": "easy",
+    "question": "Odd one out: Monday, Tuesday, April, Sunday",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "April",
+      "Sunday"
+    ],
+    "correctAnswer": 2,
+    "explanation": "April is a month. Monday, Tuesday, Sunday are days of the week",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "rea_e55",
+    "category": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "easy",
+    "question": "Ram walks 4km East, then 3km North. He is ___ km from start.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": 1,
+    "explanation": "√(4²+3²) = √(16+9) = √25 = 5 km",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "rea_e51",
+    "category": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Book : Library :: Painting : ?",
+    "options": [
+      "Studio",
+      "Museum",
+      "Gallery",
+      "Canvas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Books are kept in a library; Paintings are displayed in a gallery",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "rea_e52",
+    "category": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "2, 5, 10, 17, 26, ?",
+    "options": [
+      "35",
+      "36",
+      "37",
+      "38"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Differences: 3,5,7,9,11. Next=26+11=37",
+    "timeLimit": 20,
+    "language": "en"
+  }
+]

@@ -1,0 +1,597 @@
+[
+  {
+    "id": "enh01",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "question": "'Scarcely had he entered ___ the alarm went off.'",
+    "options": [
+      "when",
+      "than",
+      "before",
+      "that"
+    ],
+    "correctAnswer": 0,
+    "explanation": "After 'Scarcely/Hardly + past perfect', use 'when' (not 'than' which follows 'No sooner').",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh02",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "question": "Choose correct: 'This is one of the best films ___ ever made.'",
+    "options": [
+      "that was",
+      "that were",
+      "that have been",
+      "which was"
+    ],
+    "correctAnswer": 2,
+    "explanation": "After 'one of the + superlative + plural noun', use plural relative clause: 'that have been made'.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh03",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "question": "LOQUACIOUS means:",
+    "options": [
+      "Taciturn",
+      "Extremely talkative",
+      "Thoughtful",
+      "Rude"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Loquacious means very talkative, fond of talking.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh04",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "question": "PUSILLANIMOUS means:",
+    "options": [
+      "Brave",
+      "Physically strong",
+      "Lacking courage/cowardly",
+      "Generous"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pusillanimous means showing a lack of courage or determination; timid.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh05",
+    "category": "English",
+    "topic": "Idioms and Phrases",
+    "difficulty": "hard",
+    "question": "'A Pyrrhic victory' means:",
+    "options": [
+      "A complete victory",
+      "A victory won at too great a cost",
+      "An unexpected win",
+      "A peaceful settlement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Named after King Pyrrhus whose costly victory made him say 'One more such victory and I am undone.'",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh06",
+    "category": "English",
+    "topic": "Idioms and Phrases",
+    "difficulty": "hard",
+    "question": "'Hobson's choice' means:",
+    "options": [
+      "A wide variety",
+      "Freedom to choose",
+      "No real choice at all",
+      "A difficult choice"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hobson's choice = apparently free choice but actually no alternative.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh07",
+    "category": "English",
+    "topic": "One Word Substitution",
+    "difficulty": "hard",
+    "question": "A person who pretends to be ill to avoid work is a:",
+    "options": [
+      "Hypochondriac",
+      "Malingerer",
+      "Shirker",
+      "Sluggard"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A malingerer pretends to be ill or incapacitated to avoid duty.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh08",
+    "category": "English",
+    "topic": "One Word Substitution",
+    "difficulty": "hard",
+    "question": "The act of making something holy or sacred is:",
+    "options": [
+      "Blasphemy",
+      "Sanctification",
+      "Desecration",
+      "Profanity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sanctification = the action of making something holy or sacred.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh09",
+    "category": "English",
+    "topic": "Error Spotting",
+    "difficulty": "hard",
+    "question": "'Had I known you were coming, I will have prepared food.'",
+    "options": [
+      "Had I known",
+      "you were coming",
+      "I will have",
+      "prepared food"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In a conditional starting with inversion 'Had I known', the result must use 'would have', not 'will have'.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh10",
+    "category": "English",
+    "topic": "Error Spotting",
+    "difficulty": "hard",
+    "question": "'The data is insufficient to draw any conclusion.'",
+    "options": [
+      "The data",
+      "is insufficient",
+      "to draw",
+      "any conclusion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Data' is the plural of 'datum' → 'data are insufficient' in formal usage.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh11",
+    "category": "English",
+    "topic": "Sentence Correction",
+    "difficulty": "hard",
+    "question": "Choose the grammatically correct option:",
+    "options": [
+      "He didn't spoke to anyone",
+      "He didn't speak to anyone",
+      "He not spoke to anyone",
+      "He doesn't spoke to anyone"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Auxiliary 'did' is followed by base form: 'speak', not 'spoke'.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh12",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "hard",
+    "question": "ACRIMONIOUS means:",
+    "options": [
+      "Friendly",
+      "Bitter and angry",
+      "Calm",
+      "Soothing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Acrimonious means angry and bitter, especially in speech.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh13",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "hard",
+    "question": "Antonym of MAGNANIMOUS is:",
+    "options": [
+      "Generous",
+      "Noble",
+      "Petty",
+      "Forgiving"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Magnanimous = generous in forgiving; Petty = small-minded, ungenerous.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh14",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "question": "EQUIVOCATE means:",
+    "options": [
+      "Speak clearly",
+      "Use ambiguous language to avoid commitment",
+      "State firmly",
+      "Agree completely"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Equivocate = use vague or ambiguous language; avoid committing to a position.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh15",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "question": "'The report ___ by the committee is ready.' (passive, past participle)",
+    "options": [
+      "preparing",
+      "prepared",
+      "prepares",
+      "was prepare"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Past participle 'prepared' is used in passive participial phrase.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh16",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "hard",
+    "question": "'I ___ him for ages when he suddenly appeared.'",
+    "options": [
+      "hadn't seen",
+      "haven't seen",
+      "didn't see",
+      "wasn't seeing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Past perfect negative for duration before a past point: 'hadn't seen'.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh17",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "question": "TRUCULENT means:",
+    "options": [
+      "Peaceful",
+      "Eager for argument or fight",
+      "Submissive",
+      "Gentle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Truculent means eager or quick to argue or fight; aggressively defiant.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh18",
+    "category": "English",
+    "topic": "Idioms and Phrases",
+    "difficulty": "hard",
+    "question": "'Throw down the gauntlet' means:",
+    "options": [
+      "Surrender",
+      "Lose a fight",
+      "Issue a challenge",
+      "Remove gloves"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Throw down the gauntlet' = issue a challenge or provocation.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh19",
+    "category": "English",
+    "topic": "One Word Substitution",
+    "difficulty": "hard",
+    "question": "Killing of one's own brother is:",
+    "options": [
+      "Patricide",
+      "Fratricide",
+      "Matricide",
+      "Infanticide"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fratricide = the killing of one's brother.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh20",
+    "category": "English",
+    "topic": "Error Spotting",
+    "difficulty": "hard",
+    "question": "'The number of applicants are increasing every year.'",
+    "options": [
+      "The number",
+      "of applicants",
+      "are increasing",
+      "every year"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'The number' (not 'a number') takes singular verb: 'is increasing'.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh21",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "question": "Choose correct: 'No sooner did she arrive ___ it started raining.'",
+    "options": [
+      "when",
+      "than",
+      "that",
+      "then"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'No sooner...than' is the fixed structure (not 'when').",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh22",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "hard",
+    "question": "Antonym of VINDICTIVE is:",
+    "options": [
+      "Revengeful",
+      "Spiteful",
+      "Forgiving",
+      "Cruel"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Vindictive = seeking revenge; Forgiving = willing to forgive.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh23",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "question": "INSIPID means:",
+    "options": [
+      "Spicy",
+      "Lacking flavour/dull",
+      "Interesting",
+      "Colourful"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Insipid = lacking flavour or interest; bland.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh24",
+    "category": "English",
+    "topic": "Sentence Correction",
+    "difficulty": "hard",
+    "question": "'The police has arrested five suspects.' Identify correction.",
+    "options": [
+      "police have",
+      "police has arrested",
+      "police arrested",
+      "five suspects"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Police' takes plural verb: 'police have arrested'.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh25",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "question": "VICARIOUS means:",
+    "options": [
+      "Direct experience",
+      "Experienced through another",
+      "Immoral",
+      "Excessive"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vicarious = experienced in the imagination through the feelings of another person.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh26",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "question": "'___ his illness, he attended the meeting.'",
+    "options": [
+      "Despite",
+      "Although",
+      "Even if",
+      "However"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Despite' is a preposition followed by a noun phrase. 'Although' needs a subject+verb.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh27",
+    "category": "English",
+    "topic": "Idioms and Phrases",
+    "difficulty": "hard",
+    "question": "'Add fuel to the fire' means:",
+    "options": [
+      "Extinguish trouble",
+      "Make a bad situation worse",
+      "Help someone",
+      "Start a new project"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Add fuel to the fire/flames' = to worsen an already bad situation.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh28",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "hard",
+    "question": "OBSEQUIOUS means:",
+    "options": [
+      "Independent",
+      "Excessively compliant or submissive",
+      "Critical",
+      "Honest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Obsequious = excessively eager to serve or please; servile.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh29",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "question": "INIMICAL means:",
+    "options": [
+      "Friendly",
+      "Tending to obstruct or harm; hostile",
+      "Helpful",
+      "Peaceful"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Inimical = tending to obstruct or harm; unfriendly; hostile.",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "enh30",
+    "category": "English",
+    "topic": "Error Spotting",
+    "difficulty": "hard",
+    "question": "'Being a rainy day, we stayed indoors.' Find the error.",
+    "options": [
+      "Being a rainy day",
+      "we stayed",
+      "indoors",
+      "No error — needs subject"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dangling modifier: 'Being a rainy day' has no clear subject. Correct: 'It being a rainy day, we stayed indoors.'",
+    "timeLimit": 35,
+    "language": "en"
+  },
+  {
+    "id": "eng_h16",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "hard",
+    "question": "AMALGAMATE means:",
+    "options": [
+      "Separate",
+      "Combine into one",
+      "Dissolve",
+      "Compete"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Amalgamate = combine or merge to form one organization or structure",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "eng_h17",
+    "category": "English",
+    "topic": "Idioms and Phrases",
+    "difficulty": "hard",
+    "question": "'Hobson's choice' means:",
+    "options": [
+      "A difficult choice",
+      "A free choice but really no choice",
+      "Two equally bad choices",
+      "An easy choice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hobson's choice = a free choice that is really no choice at all (take it or leave it)",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "eng_h18",
+    "category": "English",
+    "topic": "Sentence Correction",
+    "difficulty": "hard",
+    "question": "Correct: 'She is one of those women who cares deeply about her work.'",
+    "options": [
+      "'who care deeply' is correct",
+      "'who cares deeply' is correct",
+      "Both are correct",
+      "Neither is correct"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In 'one of those who' constructions, the antecedent is 'those women' (plural), so use 'care' not 'cares'",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "eng_h19",
+    "category": "English",
+    "topic": "Reading Comprehension short passages",
+    "difficulty": "hard",
+    "question": "'The inexorable march of technology has rendered many traditional skills obsolete.' What does 'inexorable' mean here?",
+    "options": [
+      "Slow and steady",
+      "Unstoppable and relentless",
+      "Unpredictable",
+      "Beneficial"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Inexorable = impossible to stop or prevent, relentless",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "eng_h20",
+    "category": "English",
+    "topic": "Error Spotting",
+    "difficulty": "hard",
+    "question": "'The teacher told to the students to be quiet.' Error:",
+    "options": [
+      "The teacher",
+      "told to the",
+      "students",
+      "to be quiet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Tell' doesn't take 'to' before indirect object. Correct: 'told the students' not 'told to the students'",
+    "timeLimit": 25,
+    "language": "en"
+  }
+]

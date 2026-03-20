@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "enm01",
+    "category": "English",
+    "topic": "Sentence Correction",
+    "difficulty": "medium",
+    "question": "Find the error: 'Each of the boys have done their homework.'",
+    "options": [
+      "Each of",
+      "the boys",
+      "have done",
+      "their homework"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Each' is singular → 'has done', not 'have done'. Correct: 'Each of the boys has done his homework.'",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm02",
+    "category": "English",
+    "topic": "Sentence Correction",
+    "difficulty": "medium",
+    "question": "Find the error: 'She is one of those girls who works hard.'",
+    "options": [
+      "She is",
+      "one of",
+      "those girls",
+      "who works hard"
+    ],
+    "correctAnswer": 3,
+    "explanation": "After 'one of those + plural noun', use plural verb: 'who work hard'.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm03",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "Choose the correct form: 'If I ___ you, I would apologise.'",
+    "options": [
+      "am",
+      "were",
+      "was",
+      "had been"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Subjunctive mood for hypothetical: 'If I were you' (not 'was' in formal usage).",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm04",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "'He suggested that she ___ a doctor.'",
+    "options": [
+      "see",
+      "sees",
+      "saw",
+      "should see"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Subjunctive/mandative: after 'suggest that', use base form of verb.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm05",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "question": "By the time you read this, I ___ for Mumbai.",
+    "options": [
+      "will leave",
+      "will have left",
+      "am leaving",
+      "have left"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Future perfect for action completed before a future point.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm06",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "EPHEMERAL means:",
+    "options": [
+      "Eternal",
+      "Lasting forever",
+      "Short-lived",
+      "Powerful"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ephemeral means lasting for a very short time.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm07",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "SANGUINE means:",
+    "options": [
+      "Pessimistic",
+      "Optimistic",
+      "Indifferent",
+      "Angry"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sanguine means optimistic, especially in a difficult situation.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm08",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "question": "AMBIGUOUS means the same as:",
+    "options": [
+      "Clear",
+      "Definite",
+      "Unclear/Double meaning",
+      "Simple"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ambiguous means open to more than one interpretation; unclear.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm09",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "medium",
+    "question": "Antonym of VERBOSE is:",
+    "options": [
+      "Talkative",
+      "Concise",
+      "Wordy",
+      "Lengthy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Verbose means using too many words; Concise means brief and clear.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm10",
+    "category": "English",
+    "topic": "Idioms and Phrases",
+    "difficulty": "medium",
+    "question": "'A blessing in disguise' means:",
+    "options": [
+      "Something obviously good",
+      "Something bad",
+      "Something good that seemed bad initially",
+      "A religious ceremony"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'A blessing in disguise' = something that appears bad but turns out to be good.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm11",
+    "category": "English",
+    "topic": "Idioms and Phrases",
+    "difficulty": "medium",
+    "question": "'Bite the bullet' means:",
+    "options": [
+      "Eat something hard",
+      "Endure pain bravely",
+      "Avoid trouble",
+      "Start a fight"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Bite the bullet' = endure a painful or unpleasant situation with courage.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm12",
+    "category": "English",
+    "topic": "One Word Substitution",
+    "difficulty": "medium",
+    "question": "One who studies the stars is called:",
+    "options": [
+      "Astronomer",
+      "Astrologer",
+      "Geologist",
+      "Biologist"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An astronomer studies celestial bodies scientifically.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm13",
+    "category": "English",
+    "topic": "One Word Substitution",
+    "difficulty": "medium",
+    "question": "A speech given without preparation is:",
+    "options": [
+      "Extempore",
+      "Rehearsed",
+      "Eloquent",
+      "Verbose"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Extempore means spoken without prior preparation.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm14",
+    "category": "English",
+    "topic": "Error Spotting",
+    "difficulty": "medium",
+    "question": "Spot the error: 'The committee have reached their decision unanimously.'",
+    "options": [
+      "The committee",
+      "have reached",
+      "their decision",
+      "unanimously"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Committee' is a collective noun used as singular in formal context → 'has reached'.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm15",
+    "category": "English",
+    "topic": "Error Spotting",
+    "difficulty": "medium",
+    "question": "Spot the error: 'Between you and I, this is wrong.'",
+    "options": [
+      "Between",
+      "you",
+      "and I",
+      "this is wrong"
+    ],
+    "correctAnswer": 2,
+    "explanation": "After preposition 'between', use objective case: 'between you and me'.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm16",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "LACONIC means:",
+    "options": [
+      "Talkative",
+      "Using few words",
+      "Confused",
+      "Aggressive"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Laconic means expressing much in few words; brief and concise.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm17",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "'He is tired and so ___ I.'",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "do"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'So am I' mirrors the structure of 'He is...' → am (for I).",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm18",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "question": "She ___ for the company since it was founded.",
+    "options": [
+      "works",
+      "worked",
+      "has been working",
+      "had worked"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Present perfect continuous for action started in past and still ongoing.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm19",
+    "category": "English",
+    "topic": "Fill in the Blanks",
+    "difficulty": "medium",
+    "question": "Despite ___ all night, he couldn't solve it.",
+    "options": [
+      "to study",
+      "studying",
+      "studied",
+      "study"
+    ],
+    "correctAnswer": 1,
+    "explanation": "After preposition 'despite', use gerund (verb+ing).",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm20",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "question": "TENACIOUS means:",
+    "options": [
+      "Weak",
+      "Giving up easily",
+      "Holding firmly/persistent",
+      "Flexible"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tenacious means tending to keep a firm hold; very persistent.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm21",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "medium",
+    "question": "Antonym of BENIGN is:",
+    "options": [
+      "Harmless",
+      "Kind",
+      "Malignant",
+      "Gentle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Benign = harmless, kind; Malignant = harmful, dangerous.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm22",
+    "category": "English",
+    "topic": "Idioms and Phrases",
+    "difficulty": "medium",
+    "question": "'Cost an arm and a leg' means:",
+    "options": [
+      "Physical injury",
+      "Very expensive",
+      "Cheap bargain",
+      "A good deal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Cost an arm and a leg' = to be very expensive.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm23",
+    "category": "English",
+    "topic": "One Word Substitution",
+    "difficulty": "medium",
+    "question": "Fear of heights is called:",
+    "options": [
+      "Claustrophobia",
+      "Acrophobia",
+      "Hydrophobia",
+      "Agoraphobia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Acrophobia is the fear of heights.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm24",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "The accused was found not guilty, ___ he was released.",
+    "options": [
+      "but",
+      "and",
+      "so",
+      "because"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Logical consequence: acquitted → released. 'So' shows result.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm25",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "GREGARIOUS means:",
+    "options": [
+      "Solitary",
+      "Sociable/fond of company",
+      "Aggressive",
+      "Timid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gregarious means fond of company; sociable.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm26",
+    "category": "English",
+    "topic": "Error Spotting",
+    "difficulty": "medium",
+    "question": "Find the error: 'He is more smarter than his sister.'",
+    "options": [
+      "He is",
+      "more smarter",
+      "than",
+      "his sister"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Double comparative error. Either 'smarter' or 'more smart' — not both.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm27",
+    "category": "English",
+    "topic": "Sentence Correction",
+    "difficulty": "medium",
+    "question": "Correct: 'Hardly had she entered the room before the phone rang.'",
+    "options": [
+      "Had she hardly",
+      "Hardly had she",
+      "She had hardly",
+      "She hardly had"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Inverted conditional/negative: 'Hardly had she...' is the correct formal structure.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm28",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "question": "I wish I ___ taller.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Subjunctive after 'I wish' for present/hypothetical: 'were'.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm29",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "question": "RETICENT means:",
+    "options": [
+      "Talkative",
+      "Reserved/unwilling to speak",
+      "Confident",
+      "Eager"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reticent = not revealing one's thoughts freely; reserved.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm30",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "OSTENTATIOUS means:",
+    "options": [
+      "Modest",
+      "Showy/pretentious",
+      "Simple",
+      "Shy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ostentatious means characterized by pretentious show to impress.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm31",
+    "category": "English",
+    "topic": "Idioms and Phrases",
+    "difficulty": "medium",
+    "question": "'Beat around the bush' means:",
+    "options": [
+      "To garden",
+      "To avoid the main topic",
+      "To win easily",
+      "To search thoroughly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Beat around the bush' = avoid saying what you mean directly.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm32",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "'The harder he works, ___ results he gets.'",
+    "options": [
+      "better the",
+      "the better",
+      "more better",
+      "the best"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Parallel comparative structure: 'The harder... the better'.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm33",
+    "category": "English",
+    "topic": "One Word Substitution",
+    "difficulty": "medium",
+    "question": "One who eats too much is a:",
+    "options": [
+      "Glutton",
+      "Gourmet",
+      "Herbivore",
+      "Cannibal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A glutton is a person who eats excessively.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm34",
+    "category": "English",
+    "topic": "Error Spotting",
+    "difficulty": "medium",
+    "question": "Spot the error: 'The scissors is on the table.'",
+    "options": [
+      "The scissors",
+      "is",
+      "on",
+      "the table"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Scissors always takes plural verb → 'The scissors are on the table.'",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm35",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "medium",
+    "question": "Antonym of FRUGAL is:",
+    "options": [
+      "Thrifty",
+      "Economical",
+      "Extravagant",
+      "Careful"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Frugal = careful with money; Extravagant = spending excessively.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm36",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "PERFIDIOUS means:",
+    "options": [
+      "Loyal",
+      "Treacherous/deceitful",
+      "Honest",
+      "Kind"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Perfidious means guilty of betrayal or treachery.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm37",
+    "category": "English",
+    "topic": "Fill in the Blanks",
+    "difficulty": "medium",
+    "question": "It is time we ___ home.",
+    "options": [
+      "go",
+      "went",
+      "will go",
+      "are going"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'It is time + subject + past tense' for present necessity.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm38",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "question": "PROLIFIC means:",
+    "options": [
+      "Producing little",
+      "Producing in large amounts",
+      "Quiet",
+      "Destructive"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Prolific means producing much; a prolific writer writes many books.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm39",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "Neither answer ___ correct.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Neither' is singular → 'is'.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm40",
+    "category": "English",
+    "topic": "Idioms and Phrases",
+    "difficulty": "medium",
+    "question": "'Burn the midnight oil' means:",
+    "options": [
+      "To waste oil",
+      "To study or work late at night",
+      "To celebrate",
+      "To cause fire"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Burn the midnight oil' = to work or study late into the night.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm41",
+    "category": "English",
+    "topic": "One Word Substitution",
+    "difficulty": "medium",
+    "question": "Government by the people is:",
+    "options": [
+      "Aristocracy",
+      "Monarchy",
+      "Democracy",
+      "Oligarchy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Democracy = government of the people, by the people, for the people.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm42",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "question": "He ___ his car before the rain started.",
+    "options": [
+      "parked",
+      "had parked",
+      "has parked",
+      "parks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Past perfect for action completed before another past action.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm43",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "TACITURN means:",
+    "options": [
+      "Talkative",
+      "Reserved and speaking little",
+      "Loud",
+      "Friendly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Taciturn means reserved, not inclined to speak much.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm44",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "medium",
+    "question": "Antonym of INDIGENOUS is:",
+    "options": [
+      "Native",
+      "Local",
+      "Foreign",
+      "Natural"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Indigenous = originating in a place; Foreign = from another place.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm45",
+    "category": "English",
+    "topic": "Error Spotting",
+    "difficulty": "medium",
+    "question": "Spot the error: 'I could not help but to laugh.'",
+    "options": [
+      "I could not",
+      "help but",
+      "to laugh",
+      "No error"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Help but' takes bare infinitive: 'I could not help but laugh' (no 'to').",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm46",
+    "category": "English",
+    "topic": "Sentence Correction",
+    "difficulty": "medium",
+    "question": "Choose correct: 'The police ___ investigating the crime.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "have"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Police' is a plural noun (referring to the force) → 'are'.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm47",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "PERNICIOUS means:",
+    "options": [
+      "Harmless",
+      "Having a harmful effect",
+      "Beneficial",
+      "Mild"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pernicious means having a harmful effect, especially in a gradual way.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm48",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "question": "WRATH means the same as:",
+    "options": [
+      "Joy",
+      "Calmness",
+      "Intense anger",
+      "Sadness"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Wrath means extreme, intense anger.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm49",
+    "category": "English",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "'She asked me where ___ going.'",
+    "options": [
+      "I was",
+      "was I",
+      "I am",
+      "am I"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In indirect speech, normal word order: 'where I was going'.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm50",
+    "category": "English",
+    "topic": "Idioms and Phrases",
+    "difficulty": "medium",
+    "question": "'Let the cat out of the bag' means:",
+    "options": [
+      "Release a cat",
+      "Keep a secret",
+      "Reveal a secret",
+      "Cause trouble"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Let the cat out of the bag' = accidentally reveal a secret.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm51",
+    "category": "English",
+    "topic": "One Word Substitution",
+    "difficulty": "medium",
+    "question": "A person who cannot be bribed is:",
+    "options": [
+      "Corrupt",
+      "Incorruptible",
+      "Honest",
+      "Virtuous"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Incorruptible specifically means unable to be bribed or corrupted.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm52",
+    "category": "English",
+    "topic": "Tenses",
+    "difficulty": "medium",
+    "question": "___ you ever ___ to Shimla?",
+    "options": [
+      "Have / been",
+      "Did / go",
+      "Do / went",
+      "Were / going"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Present perfect with 'ever' for life experience: 'Have you ever been'.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm53",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "UBIQUITOUS means:",
+    "options": [
+      "Rare",
+      "Unique",
+      "Seemingly everywhere",
+      "Invisible"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ubiquitous means present, appearing, or found everywhere.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm54",
+    "category": "English",
+    "topic": "Antonyms",
+    "difficulty": "medium",
+    "question": "Antonym of CONCEAL is:",
+    "options": [
+      "Hide",
+      "Reveal",
+      "Cover",
+      "Mask"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Conceal = hide; Reveal = make known.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "enm55",
+    "category": "English",
+    "topic": "Error Spotting",
+    "difficulty": "medium",
+    "question": "Spot the error: 'They discussed about the project.'",
+    "options": [
+      "They",
+      "discussed about",
+      "the project",
+      "No error"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Discuss' is a transitive verb that doesn't need 'about'. Correct: 'discussed the project'.",
+    "timeLimit": 30,
+    "language": "en"
+  },
+  {
+    "id": "eng_m51",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "ACRIMONIOUS means:",
+    "options": [
+      "Sweet",
+      "Bitter and sharp in tone",
+      "Peaceful",
+      "Gentle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Acrimonious = angry and bitter, especially in speech or manner",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "eng_m52",
+    "category": "English",
+    "topic": "Fill in the Blanks",
+    "difficulty": "medium",
+    "question": "The match was cancelled ___ heavy rain.",
+    "options": [
+      "despite",
+      "because of",
+      "although",
+      "unless"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Because of' introduces the reason/cause. The match was cancelled because of heavy rain",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "eng_m53",
+    "category": "English",
+    "topic": "Synonyms",
+    "difficulty": "medium",
+    "question": "Synonym of METICULOUS:",
+    "options": [
+      "Careless",
+      "Thorough and precise",
+      "Lazy",
+      "Quick"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Meticulous = showing great attention to detail, very careful",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "eng_m54",
+    "category": "English",
+    "topic": "One Word Substitution",
+    "difficulty": "medium",
+    "question": "Fear of heights:",
+    "options": [
+      "Claustrophobia",
+      "Hydrophobia",
+      "Acrophobia",
+      "Agoraphobia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Acrophobia = extreme or irrational fear of heights",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "eng_m55",
+    "category": "English",
+    "topic": "Error Spotting",
+    "difficulty": "medium",
+    "question": "'The jury have given their verdict.' Is this correct?",
+    "options": [
+      "Correct – collective noun can be plural",
+      "Incorrect – should be 'has given its verdict'",
+      "Both forms acceptable",
+      "Neither is correct"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In British English, collective nouns like 'jury' can take plural verb when members act individually. Both 'has/have' are acceptable",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "eng_m51",
+    "category": "English",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "PARSIMONIOUS means:",
+    "options": [
+      "Generous",
+      "Extremely unwilling to spend",
+      "Religious",
+      "Brave"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Parsimonious = unwilling to spend money or use resources, very frugal",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "eng_m52",
+    "category": "English",
+    "topic": "Error Spotting",
+    "difficulty": "medium",
+    "question": "Spot error: 'He prefers cricket than football.'",
+    "options": [
+      "He prefers",
+      "cricket than",
+      "football",
+      "No error"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Prefer' is followed by 'to' not 'than'. Correct: 'prefers cricket to football'",
+    "timeLimit": 25,
+    "language": "en"
+  }
+]

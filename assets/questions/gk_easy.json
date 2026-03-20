@@ -1,0 +1,1277 @@
+[
+  {
+    "id": "gke01",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "easy",
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "B.R. Ambedkar",
+      "Sardar Patel"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dr. B.R. Ambedkar chaired the Drafting Committee and is called the Father of the Constitution.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke02",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "easy",
+    "question": "In which year did India gain independence?",
+    "options": [
+      "1945",
+      "1946",
+      "1947",
+      "1948"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India gained independence from British rule on 15 August 1947.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke03",
+    "category": "GK",
+    "topic": "National Symbols",
+    "difficulty": "easy",
+    "question": "What is the national animal of India?",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Elephant",
+      "Leopard"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Bengal Tiger was declared India's national animal in 1973 under Project Tiger.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke04",
+    "category": "GK",
+    "topic": "National Symbols",
+    "difficulty": "easy",
+    "question": "What is the national bird of India?",
+    "options": [
+      "Sparrow",
+      "Crow",
+      "Peacock",
+      "Parrot"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Indian Peacock (Pavo cristatus) is India's national bird.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke05",
+    "category": "GK",
+    "topic": "National Symbols",
+    "difficulty": "easy",
+    "question": "What is the national flower of India?",
+    "options": [
+      "Rose",
+      "Jasmine",
+      "Lotus",
+      "Sunflower"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Lotus (Nelumbo nucifera) is India's national flower.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke06",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "easy",
+    "question": "Which is the longest river in India?",
+    "options": [
+      "Brahmaputra",
+      "Yamuna",
+      "Ganga",
+      "Godavari"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Ganga is the longest river entirely within India at approximately 2,525 km.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke07",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "easy",
+    "question": "Which is the largest state of India by area?",
+    "options": [
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Uttar Pradesh"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rajasthan is the largest Indian state by area at 3,42,239 sq km.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke08",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "easy",
+    "question": "Which state has the longest coastline in India?",
+    "options": [
+      "Maharashtra",
+      "Tamil Nadu",
+      "Kerala",
+      "Gujarat"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Gujarat has the longest coastline in India at approximately 1,600 km.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke09",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "easy",
+    "question": "What is the currency of India?",
+    "options": [
+      "Dollar",
+      "Rupee",
+      "Euro",
+      "Pound"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Indian Rupee (₹), symbol INR, is the official currency of India.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke10",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "easy",
+    "question": "How many players are in a cricket team?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A cricket team has 11 players on the field at any time.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke11",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "easy",
+    "question": "The ICC Cricket World Cup 2011 was won by:",
+    "options": [
+      "Australia",
+      "Sri Lanka",
+      "India",
+      "Pakistan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India won the 2011 ICC Cricket World Cup, beating Sri Lanka in the final at Wankhede Stadium, Mumbai.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke12",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "easy",
+    "question": "How many fundamental rights are in the Indian Constitution?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "There are 6 Fundamental Rights: Right to Equality, Freedom, against Exploitation, to Freedom of Religion, Cultural and Educational Rights, and Right to Constitutional Remedies.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke13",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "easy",
+    "question": "The Parliament of India consists of how many houses?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Parliament consists of two houses: Lok Sabha (Lower House) and Rajya Sabha (Upper House).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke14",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "easy",
+    "question": "The Indian National Congress was founded in:",
+    "options": [
+      "1880",
+      "1885",
+      "1905",
+      "1920"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Indian National Congress was founded on 28 December 1885 by A.O. Hume.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke15",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "easy",
+    "question": "The Quit India Movement was launched in which year?",
+    "options": [
+      "1930",
+      "1940",
+      "1942",
+      "1945"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Quit India Movement was launched by Mahatma Gandhi on 8 August 1942.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke16",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for water?",
+    "options": [
+      "O2",
+      "H2O",
+      "CO2",
+      "HO"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water is H2O — two hydrogen atoms bonded to one oxygen atom.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke17",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Jupiter",
+      "Saturn",
+      "Mars"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mars appears reddish due to iron oxide (rust) on its surface.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke18",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "easy",
+    "question": "The speed of light is approximately:",
+    "options": [
+      "3×10⁶ m/s",
+      "3×10⁸ m/s",
+      "3×10¹⁰ m/s",
+      "3×10⁴ m/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speed of light ≈ 3×10⁸ metres per second (300,000 km/s).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke19",
+    "category": "GK",
+    "topic": "Important Days",
+    "difficulty": "easy",
+    "question": "Independence Day of India is celebrated on:",
+    "options": [
+      "15th January",
+      "26th January",
+      "15th August",
+      "2nd October"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India's Independence Day is celebrated on 15 August every year.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke20",
+    "category": "GK",
+    "topic": "Important Days",
+    "difficulty": "easy",
+    "question": "Republic Day of India is observed on:",
+    "options": [
+      "15th January",
+      "26th January",
+      "15th August",
+      "2nd October"
+    ],
+    "correctAnswer": 1,
+    "explanation": "India's Republic Day is on 26 January — the day the Constitution came into force in 1950.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke21",
+    "category": "GK",
+    "topic": "States and Capitals",
+    "difficulty": "easy",
+    "question": "What is the capital of Maharashtra?",
+    "options": [
+      "Pune",
+      "Nagpur",
+      "Mumbai",
+      "Nashik"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mumbai is the capital of Maharashtra and is also India's financial capital.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke22",
+    "category": "GK",
+    "topic": "States and Capitals",
+    "difficulty": "easy",
+    "question": "What is the capital of Karnataka?",
+    "options": [
+      "Mysuru",
+      "Mangaluru",
+      "Bengaluru",
+      "Hubli"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bengaluru (Bangalore) is the capital of Karnataka.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke23",
+    "category": "GK",
+    "topic": "States and Capitals",
+    "difficulty": "easy",
+    "question": "What is the capital of Rajasthan?",
+    "options": [
+      "Jodhpur",
+      "Jaipur",
+      "Udaipur",
+      "Ajmer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Jaipur, known as the Pink City, is the capital of Rajasthan.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke24",
+    "category": "GK",
+    "topic": "National Symbols",
+    "difficulty": "easy",
+    "question": "What is the national emblem of India?",
+    "options": [
+      "Ashoka Chakra",
+      "Lion Capital of Ashoka",
+      "Lotus",
+      "Tiger"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The State Emblem of India is an adaptation of the Lion Capital of Ashoka at Sarnath.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke25",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "easy",
+    "question": "SEBI stands for:",
+    "options": [
+      "Securities and Exchange Bureau of India",
+      "Stock Exchange Board of India",
+      "Securities and Exchange Board of India",
+      "Stock and Exchange Bureau of India"
+    ],
+    "correctAnswer": 2,
+    "explanation": "SEBI = Securities and Exchange Board of India — regulates the securities market.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke26",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "easy",
+    "question": "Sachin Tendulkar's ODI record centuries:",
+    "options": [
+      "44",
+      "49",
+      "51",
+      "56"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sachin Tendulkar holds the record for most ODI centuries — 49 centuries.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke27",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "easy",
+    "question": "Who gave the slogan 'Jai Hind'?",
+    "options": [
+      "Gandhi",
+      "Nehru",
+      "Subhas Chandra Bose",
+      "Bhagat Singh"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Subhas Chandra Bose popularised the slogan 'Jai Hind' as a battle cry.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke28",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "easy",
+    "question": "Who was the first President of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Rajendra Prasad",
+      "S. Radhakrishnan",
+      "Zakir Husain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dr. Rajendra Prasad was the first President of India (1950–1962).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke29",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "easy",
+    "question": "Who was the first Prime Minister of India?",
+    "options": [
+      "Sardar Patel",
+      "Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "Lal Bahadur Shastri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Jawaharlal Nehru was India's first Prime Minister (1947–1964).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke30",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "easy",
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke31",
+    "category": "GK",
+    "topic": "Famous Personalities",
+    "difficulty": "easy",
+    "question": "Who is known as the 'Missile Man of India'?",
+    "options": [
+      "Vikram Sarabhai",
+      "A.P.J. Abdul Kalam",
+      "Homi J Bhabha",
+      "C.V. Raman"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dr. A.P.J. Abdul Kalam was known as the Missile Man of India for his work on ballistic missiles.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke32",
+    "category": "GK",
+    "topic": "Famous Personalities",
+    "difficulty": "easy",
+    "question": "Who was the first woman to be elected President of India?",
+    "options": [
+      "Indira Gandhi",
+      "Sonia Gandhi",
+      "Pratibha Patil",
+      "Sarojini Naidu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pratibha Patil was India's first woman President (2007–2012).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke33",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "easy",
+    "question": "The Sundarbans is located in which state?",
+    "options": [
+      "Assam",
+      "Odisha",
+      "West Bengal",
+      "Kerala"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sundarbans, the largest mangrove forest, is located in West Bengal (and extends to Bangladesh).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke34",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "easy",
+    "question": "The Reserve Bank of India (RBI) is located in:",
+    "options": [
+      "New Delhi",
+      "Kolkata",
+      "Chennai",
+      "Mumbai"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The RBI's central office is in Mumbai (moved from Kolkata in 1937).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke35",
+    "category": "GK",
+    "topic": "Awards and Honours",
+    "difficulty": "easy",
+    "question": "India's highest civilian honour is:",
+    "options": [
+      "Padma Vibhushan",
+      "Bharat Ratna",
+      "Padma Shri",
+      "Padma Bhushan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bharat Ratna is India's highest civilian award, instituted in 1954.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke36",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "easy",
+    "question": "The Durand Cup is associated with which sport?",
+    "options": [
+      "Cricket",
+      "Hockey",
+      "Football",
+      "Badminton"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Durand Cup is one of Asia's oldest football tournaments, held in India.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke37",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "easy",
+    "question": "Battle of Plassey was fought in which year?",
+    "options": [
+      "1757",
+      "1764",
+      "1600",
+      "1857"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Battle of Plassey (1757) was a decisive victory for the British East India Company over Nawab Siraj-ud-Daulah.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke38",
+    "category": "GK",
+    "topic": "Indian Constitution",
+    "difficulty": "easy",
+    "question": "The Indian Constitution came into effect on:",
+    "options": [
+      "15 August 1947",
+      "26 November 1949",
+      "26 January 1950",
+      "2 October 1950"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Indian Constitution came into force on 26 January 1950, celebrated as Republic Day.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke39",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "easy",
+    "question": "Photosynthesis uses which gas as raw material?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plants use CO2, water, and sunlight to make glucose via photosynthesis.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke40",
+    "category": "GK",
+    "topic": "States and Capitals",
+    "difficulty": "easy",
+    "question": "What is the capital of Uttar Pradesh?",
+    "options": [
+      "Kanpur",
+      "Allahabad",
+      "Agra",
+      "Lucknow"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Lucknow is the capital city of Uttar Pradesh.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke41",
+    "category": "GK",
+    "topic": "Famous Personalities",
+    "difficulty": "easy",
+    "question": "Who wrote the Indian National Anthem 'Jana Gana Mana'?",
+    "options": [
+      "Bankim Chandra Chattopadhyay",
+      "Rabindranath Tagore",
+      "Subramanya Bharati",
+      "Lala Lajpat Rai"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Jana Gana Mana' was written by Rabindranath Tagore and adopted as the national anthem in 1950.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke42",
+    "category": "GK",
+    "topic": "National Symbols",
+    "difficulty": "easy",
+    "question": "What is the national song of India?",
+    "options": [
+      "Jana Gana Mana",
+      "Vande Mataram",
+      "Sare Jahan Se Acha",
+      "Mera Bharat Mahan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Vande Mataram' is India's national song, composed by Bankim Chandra Chattopadhyay.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke43",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "easy",
+    "question": "The Rajya Sabha is also known as:",
+    "options": [
+      "Lower House",
+      "House of the People",
+      "Council of States",
+      "Legislative Assembly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rajya Sabha = Council of States (Upper House of Indian Parliament).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke44",
+    "category": "GK",
+    "topic": "Important Days",
+    "difficulty": "easy",
+    "question": "Gandhi Jayanti is observed on:",
+    "options": [
+      "30 January",
+      "2 October",
+      "15 August",
+      "14 November"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gandhi Jayanti is celebrated on 2 October, the birth anniversary of Mahatma Gandhi.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke45",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "easy",
+    "question": "Mount Everest is located in which mountain range?",
+    "options": [
+      "Western Ghats",
+      "Eastern Ghats",
+      "Himalayas",
+      "Vindhyas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mount Everest is in the Himalayas, on the Nepal-Tibet border.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke46",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "easy",
+    "question": "GST stands for:",
+    "options": [
+      "General Sales Tax",
+      "Goods and Services Tax",
+      "Government Service Tax",
+      "Gross Sales Tax"
+    ],
+    "correctAnswer": 1,
+    "explanation": "GST = Goods and Services Tax, implemented in India on 1 July 2017.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke47",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "easy",
+    "question": "P.V. Sindhu is associated with which sport?",
+    "options": [
+      "Tennis",
+      "Cricket",
+      "Badminton",
+      "Table Tennis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "P.V. Sindhu is India's top badminton player and Olympic silver medallist.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke48",
+    "category": "GK",
+    "topic": "Famous Personalities",
+    "difficulty": "easy",
+    "question": "Who was the first Indian to win the Nobel Prize?",
+    "options": [
+      "C.V. Raman",
+      "Amartya Sen",
+      "Mother Teresa",
+      "Rabindranath Tagore"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913 — the first Asian Nobel laureate.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke49",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "easy",
+    "question": "The Jallianwala Bagh massacre occurred in which city?",
+    "options": [
+      "Delhi",
+      "Mumbai",
+      "Amritsar",
+      "Lahore"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Jallianwala Bagh massacre occurred on 13 April 1919 in Amritsar, Punjab.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke50",
+    "category": "GK",
+    "topic": "Indian Constitution",
+    "difficulty": "easy",
+    "question": "How many schedules are there in the Indian Constitution?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Indian Constitution has 12 Schedules (originally 8, later amendments added more).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke51",
+    "category": "GK",
+    "topic": "States and Capitals",
+    "difficulty": "easy",
+    "question": "What is the capital of Tamil Nadu?",
+    "options": [
+      "Coimbatore",
+      "Madurai",
+      "Chennai",
+      "Trichy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chennai (formerly Madras) is the capital of Tamil Nadu.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke52",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "easy",
+    "question": "What is the largest organ of the human body?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Heart",
+      "Skin"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Skin is the largest organ by surface area and weight.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke53",
+    "category": "GK",
+    "topic": "Awards and Honours",
+    "difficulty": "easy",
+    "question": "The Arjuna Award is given for excellence in:",
+    "options": [
+      "Literature",
+      "Science",
+      "Sports",
+      "Military service"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Arjuna Award recognises outstanding achievement in sports at the national level.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke54",
+    "category": "GK",
+    "topic": "Books and Authors",
+    "difficulty": "easy",
+    "question": "Who wrote 'Discovery of India'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "R.K. Narayan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Discovery of India' was written by Jawaharlal Nehru while imprisoned in Ahmadnagar Fort (1944).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke55",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "easy",
+    "question": "The East India Company was established in:",
+    "options": [
+      "1498",
+      "1526",
+      "1600",
+      "1707"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The British East India Company was established on 31 December 1600.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke56",
+    "category": "GK",
+    "topic": "Important Days",
+    "difficulty": "easy",
+    "question": "National Science Day is observed on:",
+    "options": [
+      "28 February",
+      "14 November",
+      "5 September",
+      "1 May"
+    ],
+    "correctAnswer": 0,
+    "explanation": "National Science Day is celebrated on 28 February to mark C.V. Raman's discovery of the Raman Effect (1928).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke57",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "easy",
+    "question": "The Davis Cup is associated with:",
+    "options": [
+      "Tennis",
+      "Cricket",
+      "Football",
+      "Golf"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Davis Cup is the premier international team event in men's tennis.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke58",
+    "category": "GK",
+    "topic": "States and Capitals",
+    "difficulty": "easy",
+    "question": "Capital of Andhra Pradesh is:",
+    "options": [
+      "Hyderabad",
+      "Visakhapatnam",
+      "Amaravati",
+      "Vijayawada"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Amaravati is the designated capital of Andhra Pradesh (following bifurcation from Telangana).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke59",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "easy",
+    "question": "NITI Aayog replaced which body in 2015?",
+    "options": [
+      "Finance Commission",
+      "Planning Commission",
+      "Election Commission",
+      "CAG"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NITI Aayog (National Institution for Transforming India) replaced the Planning Commission in January 2015.",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gke60",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "easy",
+    "question": "Which vitamin is produced by the human body when exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Vitamin D is synthesised in the skin upon exposure to sunlight (UV-B radiation).",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gk_e51",
+    "category": "GK",
+    "topic": "States and Capitals",
+    "difficulty": "easy",
+    "question": "Capital of Gujarat:",
+    "options": [
+      "Surat",
+      "Vadodara",
+      "Rajkot",
+      "Gandhinagar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Gandhinagar is the capital of Gujarat (Ahmedabad is the largest city)",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "gk_e52",
+    "category": "GK",
+    "topic": "National Symbols and institutions",
+    "difficulty": "easy",
+    "question": "National tree of India:",
+    "options": [
+      "Neem",
+      "Peepal",
+      "Banyan",
+      "Ashoka"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Banyan Tree (Ficus benghalensis) is the national tree of India",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "gk_e53",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "easy",
+    "question": "Who led the Dandi March?",
+    "options": [
+      "Nehru",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Bal Gangadhar Tilak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mahatma Gandhi led the Dandi March (Salt March) in 1930 to protest British salt tax",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "gk_e54",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "easy",
+    "question": "What is the full form of CPU?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Processing Unit",
+      "Central Program Unit",
+      "Central Processor Unit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CPU = Central Processing Unit, the primary component of a computer that executes instructions",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "gk_e55",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "easy",
+    "question": "India won its first Cricket World Cup in:",
+    "options": [
+      "1975",
+      "1979",
+      "1983",
+      "1987"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India won the Cricket World Cup on 25 June 1983 at Lord's, London, under Kapil Dev's captaincy",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "gk_e56",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "easy",
+    "question": "Which is the largest state in India by area?",
+    "options": [
+      "Maharashtra",
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Rajasthan"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Rajasthan is the largest state in India by area (~342,239 sq km)",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "gk_e57",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "easy",
+    "question": "Which bank is known as the banker's bank in India?",
+    "options": [
+      "SBI",
+      "PNB",
+      "RBI",
+      "Axis Bank"
+    ],
+    "correctAnswer": 2,
+    "explanation": "RBI (Reserve Bank of India) is the central bank and acts as a banker to other banks",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "gk_e58",
+    "category": "GK",
+    "topic": "Famous Personalities",
+    "difficulty": "easy",
+    "question": "Mother Teresa was born in:",
+    "options": [
+      "India",
+      "Albania",
+      "UK",
+      "Portugal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mother Teresa was born Agnes Gonxha Bojaxhiu in Skopje (now North Macedonia) to Albanian parents on 26 August 1910",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gk_e59",
+    "category": "GK",
+    "topic": "Important Days",
+    "difficulty": "easy",
+    "question": "World Health Day is observed on:",
+    "options": [
+      "7 April",
+      "10 October",
+      "12 August",
+      "1 December"
+    ],
+    "correctAnswer": 0,
+    "explanation": "World Health Day is observed on 7 April each year, the anniversary of WHO's founding",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "gk_e60",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "easy",
+    "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Plants absorb CO₂ (Carbon Dioxide) and release O₂ (Oxygen) during photosynthesis",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "gk_e51",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "easy",
+    "question": "Swaraj is my birthright – who said this?",
+    "options": [
+      "Bhagat Singh",
+      "Lal Bal Pal",
+      "Bal Gangadhar Tilak",
+      "Mahatma Gandhi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Swaraj is my birthright and I shall have it' is the famous quote by Bal Gangadhar Tilak",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "gk_e52",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "easy",
+    "question": "The National Stock Exchange is located in:",
+    "options": [
+      "Delhi",
+      "Chennai",
+      "Kolkata",
+      "Mumbai"
+    ],
+    "correctAnswer": 3,
+    "explanation": "National Stock Exchange (NSE) is headquartered in Mumbai, Maharashtra",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "gk_e53",
+    "category": "GK",
+    "topic": "States and Capitals",
+    "difficulty": "easy",
+    "question": "Capital of Gujarat:",
+    "options": [
+      "Surat",
+      "Vadodara",
+      "Ahmedabad",
+      "Gandhinagar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Gandhinagar is the capital of Gujarat, though Ahmedabad is the largest city",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "gk_e54",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "easy",
+    "question": "Human body has how many chromosomes?",
+    "options": [
+      "23",
+      "42",
+      "46",
+      "48"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Human cells have 46 chromosomes (23 pairs)",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "gk_e55",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "easy",
+    "question": "In which sport does India have maximum Olympic gold medals overall?",
+    "options": [
+      "Cricket",
+      "Hockey",
+      "Wrestling",
+      "Shooting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "India has won most Olympic gold medals in Field Hockey (8 golds)",
+    "timeLimit": 15,
+    "language": "en"
+  }
+]

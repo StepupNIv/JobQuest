@@ -1,0 +1,1175 @@
+[
+  {
+    "id": "gkm01",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "medium",
+    "question": "The concept of Judicial Review in India is borrowed from which country?",
+    "options": [
+      "UK",
+      "USA",
+      "France",
+      "Canada"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Judicial Review — the power of courts to review laws — was borrowed from the USA.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm02",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "medium",
+    "question": "How many members can be nominated to the Rajya Sabha by the President?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The President can nominate 12 members to the Rajya Sabha for their expertise in arts, science, literature or social service.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm03",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "medium",
+    "question": "The Speaker of the Lok Sabha is elected by:",
+    "options": [
+      "Prime Minister",
+      "President",
+      "Members of Lok Sabha",
+      "Cabinet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Speaker is elected by the members of the Lok Sabha from among themselves.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm04",
+    "category": "GK",
+    "topic": "Indian Constitution",
+    "difficulty": "medium",
+    "question": "Which Article of the Indian Constitution abolishes untouchability?",
+    "options": [
+      "Article 14",
+      "Article 17",
+      "Article 19",
+      "Article 21"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article 17 of the Constitution abolishes untouchability and forbids its practice.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm05",
+    "category": "GK",
+    "topic": "Indian Constitution",
+    "difficulty": "medium",
+    "question": "The 'Right to Education' is a fundamental right under which Article?",
+    "options": [
+      "Article 21",
+      "Article 21A",
+      "Article 19",
+      "Article 29"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article 21A (added by 86th Amendment 2002) provides free and compulsory education for children 6-14 years.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm06",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "medium",
+    "question": "The Rowlatt Act was passed in:",
+    "options": [
+      "1917",
+      "1919",
+      "1921",
+      "1923"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Rowlatt Act (1919) allowed detention without trial — opposed by Gandhi through the Non-Cooperation movement.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm07",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "medium",
+    "question": "Who founded the Arya Samaj?",
+    "options": [
+      "Ram Mohan Roy",
+      "Vivekananda",
+      "Dayananda Saraswati",
+      "Annie Besant"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Swami Dayananda Saraswati founded the Arya Samaj in 1875 in Bombay.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm08",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "medium",
+    "question": "The Poona Pact (1932) was signed between Gandhi and:",
+    "options": [
+      "Nehru",
+      "Jinnah",
+      "B.R. Ambedkar",
+      "Lord Irwin"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Poona Pact was signed between Gandhi and Dr. Ambedkar regarding reserved seats for Depressed Classes.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm09",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "medium",
+    "question": "Which Five Year Plan gave priority to heavy industries?",
+    "options": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Second Five Year Plan (1956–61) focused on heavy industries following the Mahalanobis model.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm10",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "medium",
+    "question": "MUDRA stands for:",
+    "options": [
+      "Micro Universal Development Refinance Agency",
+      "Micro Units Development and Refinance Agency",
+      "Micro Urban Development and Rural Agency",
+      "Micro Units Debt Refinance Agency"
+    ],
+    "correctAnswer": 1,
+    "explanation": "MUDRA = Micro Units Development and Refinance Agency — provides loans to micro enterprises.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm11",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "medium",
+    "question": "The headquarters of the World Bank is in:",
+    "options": [
+      "Geneva",
+      "London",
+      "Washington D.C.",
+      "New York"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The World Bank Group is headquartered in Washington, D.C., USA.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm12",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "medium",
+    "question": "Which river is known as 'Dakshin Ganga' (Ganga of the South)?",
+    "options": [
+      "Mahanadi",
+      "Krishna",
+      "Godavari",
+      "Cauvery"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Godavari is called 'Dakshina Ganga' or 'Dakshin Ganga' due to its significance in southern India.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm13",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "medium",
+    "question": "The Deccan Plateau is bounded on the west by:",
+    "options": [
+      "Eastern Ghats",
+      "Vindhya Range",
+      "Western Ghats",
+      "Satpura Range"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Deccan Plateau is bounded on the west by the Western Ghats.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm14",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "medium",
+    "question": "Siachen Glacier is located in which state/UT?",
+    "options": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Ladakh",
+      "Sikkim"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Siachen Glacier, the world's highest battlefield, is in the Ladakh region.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm15",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "medium",
+    "question": "The process of conversion of glucose to pyruvate is called:",
+    "options": [
+      "Krebs cycle",
+      "Glycolysis",
+      "Oxidative phosphorylation",
+      "Photosynthesis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Glycolysis is the metabolic pathway that converts glucose (6-carbon) to pyruvate (3-carbon).",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm16",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "medium",
+    "question": "Which element has the highest electronegativity?",
+    "options": [
+      "Oxygen",
+      "Chlorine",
+      "Fluorine",
+      "Nitrogen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fluorine has the highest electronegativity value (3.98 on the Pauling scale).",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm17",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "medium",
+    "question": "Newton's first law is also known as the law of:",
+    "options": [
+      "Gravitation",
+      "Inertia",
+      "Conservation",
+      "Momentum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Newton's first law states that an object at rest remains at rest unless acted upon by force — the law of inertia.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm18",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "medium",
+    "question": "India first participated in the Olympic Games in which year?",
+    "options": [
+      "1900",
+      "1920",
+      "1928",
+      "1932"
+    ],
+    "correctAnswer": 1,
+    "explanation": "India first participated in the Olympic Games in 1900 (Paris), though their first team participation was 1920 (Antwerp).",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm19",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "medium",
+    "question": "The Ranjit Trophy is associated with:",
+    "options": [
+      "Cricket",
+      "Hockey",
+      "Football",
+      "Wrestling"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Ranji Trophy is India's premier domestic first-class cricket championship.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm20",
+    "category": "GK",
+    "topic": "Awards and Honours",
+    "difficulty": "medium",
+    "question": "The Nobel Peace Prize is awarded by:",
+    "options": [
+      "Swedish Academy",
+      "Norwegian Nobel Committee",
+      "Royal Swedish Academy",
+      "Danish Academy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Nobel Peace Prize is awarded by the Norwegian Nobel Committee in Oslo.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm21",
+    "category": "GK",
+    "topic": "Awards and Honours",
+    "difficulty": "medium",
+    "question": "C.V. Raman won the Nobel Prize for:",
+    "options": [
+      "Medicine",
+      "Chemistry",
+      "Physics",
+      "Literature"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C.V. Raman won the Nobel Prize in Physics (1930) for the Raman Effect — scattering of light.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm22",
+    "category": "GK",
+    "topic": "Books and Authors",
+    "difficulty": "medium",
+    "question": "Who wrote 'Wings of Fire'?",
+    "options": [
+      "Vikram Seth",
+      "R.K. Narayan",
+      "A.P.J. Abdul Kalam",
+      "Amartya Sen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Wings of Fire' is the autobiography of Dr. A.P.J. Abdul Kalam.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm23",
+    "category": "GK",
+    "topic": "Books and Authors",
+    "difficulty": "medium",
+    "question": "'Arthashastra' was written by:",
+    "options": [
+      "Chanakya",
+      "Ashoka",
+      "Kalidas",
+      "Aryabhata"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Arthashastra, an ancient Indian treatise on statecraft and economic policy, was written by Chanakya (Kautilya).",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm24",
+    "category": "GK",
+    "topic": "Famous Personalities",
+    "difficulty": "medium",
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": [
+      "Sarojini Naidu",
+      "Vijaya Lakshmi Pandit",
+      "Indira Gandhi",
+      "Pratibha Patil"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Indira Gandhi served as India's first and only female Prime Minister (1966–77, 1980–84).",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm25",
+    "category": "GK",
+    "topic": "Famous Personalities",
+    "difficulty": "medium",
+    "question": "Srinivasa Ramanujan is famous for his contributions to:",
+    "options": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Astronomy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ramanujan was a self-taught mathematical genius who made extraordinary contributions to number theory.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm26",
+    "category": "GK",
+    "topic": "Indian Constitution",
+    "difficulty": "medium",
+    "question": "Directive Principles of State Policy are contained in which Part of the Constitution?",
+    "options": [
+      "Part II",
+      "Part III",
+      "Part IV",
+      "Part V"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Directive Principles of State Policy are in Part IV (Articles 36-51) of the Constitution.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm27",
+    "category": "GK",
+    "topic": "Indian Constitution",
+    "difficulty": "medium",
+    "question": "Which Amendment added Fundamental Duties to the Constitution?",
+    "options": [
+      "24th",
+      "42nd",
+      "44th",
+      "52nd"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 42nd Amendment (1976) added Fundamental Duties (Article 51A) to the Constitution.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm28",
+    "category": "GK",
+    "topic": "Important Days",
+    "difficulty": "medium",
+    "question": "World Environment Day is observed on:",
+    "options": [
+      "1 June",
+      "5 June",
+      "10 June",
+      "15 June"
+    ],
+    "correctAnswer": 1,
+    "explanation": "World Environment Day is observed on 5 June every year — established by UN in 1972.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm29",
+    "category": "GK",
+    "topic": "Important Days",
+    "difficulty": "medium",
+    "question": "National Teacher's Day in India is observed on:",
+    "options": [
+      "5 September",
+      "14 November",
+      "26 January",
+      "2 October"
+    ],
+    "correctAnswer": 0,
+    "explanation": "National Teacher's Day is on 5 September, birth anniversary of Dr. Sarvepalli Radhakrishnan.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm30",
+    "category": "GK",
+    "topic": "States and Capitals",
+    "difficulty": "medium",
+    "question": "What is the capital of Telangana?",
+    "options": [
+      "Warangal",
+      "Vizag",
+      "Hyderabad",
+      "Karimnagar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hyderabad is the capital of Telangana (and also serves as joint capital with Andhra Pradesh for 10 years).",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm31",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "medium",
+    "question": "The Pradhan Mantri Jan Dhan Yojana is related to:",
+    "options": [
+      "Agricultural loans",
+      "Financial inclusion",
+      "Rural employment",
+      "Digital payments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PMJDY launched in 2014 aims to provide universal access to banking facilities — financial inclusion.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm32",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "medium",
+    "question": "The Election Commission of India is a:",
+    "options": [
+      "Constitutional body",
+      "Statutory body",
+      "Advisory body",
+      "Executive body"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Election Commission is a constitutional body established under Article 324 of the Constitution.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm33",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "medium",
+    "question": "The Non-Cooperation Movement was launched in:",
+    "options": [
+      "1918",
+      "1920",
+      "1922",
+      "1930"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Non-Cooperation Movement was launched by Gandhi in 1920 against British rule.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm34",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "medium",
+    "question": "Who founded the Indian National Army (INA)?",
+    "options": [
+      "Bhagat Singh",
+      "Gandhi",
+      "Subhas Chandra Bose",
+      "Bal Gangadhar Tilak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Subhas Chandra Bose reorganised and led the Indian National Army during WWII.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm35",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "medium",
+    "question": "The Thar Desert is located in which state?",
+    "options": [
+      "Gujarat",
+      "Punjab",
+      "Rajasthan",
+      "Haryana"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Thar Desert (Great Indian Desert) is mainly in Rajasthan, extending to Gujarat and Pakistan.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm36",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "medium",
+    "question": "Which gas is used in electric bulbs to prevent filament from burning?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Argon",
+      "Carbon dioxide"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Argon (inert gas) is used in incandescent bulbs to prevent the tungsten filament from oxidising.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm37",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "medium",
+    "question": "The atomic number of Carbon is:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carbon has atomic number 6 (6 protons). Its atomic mass is 12.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm38",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "medium",
+    "question": "Neeraj Chopra won India's gold medal in which event at Tokyo Olympics 2020?",
+    "options": [
+      "100m sprint",
+      "Javelin throw",
+      "Long jump",
+      "High jump"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Neeraj Chopra won gold in the Men's javelin throw at the Tokyo 2020 Olympics.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm39",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "medium",
+    "question": "How many balls are there in a standard over in cricket?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A standard over in cricket consists of 6 balls bowled by the same bowler.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm40",
+    "category": "GK",
+    "topic": "Awards and Honours",
+    "difficulty": "medium",
+    "question": "The Sahitya Akademi Award is given for excellence in:",
+    "options": [
+      "Music",
+      "Dance",
+      "Literature",
+      "Painting"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sahitya Akademi Award is India's second highest literary honour, given for outstanding literary works.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm41",
+    "category": "GK",
+    "topic": "Books and Authors",
+    "difficulty": "medium",
+    "question": "'The God of Small Things' was written by:",
+    "options": [
+      "Kiran Desai",
+      "Arundhati Roy",
+      "Amitav Ghosh",
+      "Vikram Seth"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'The God of Small Things' (1997 Booker Prize winner) was written by Arundhati Roy.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm42",
+    "category": "GK",
+    "topic": "Famous Personalities",
+    "difficulty": "medium",
+    "question": "Who is known as the 'Iron Man of India'?",
+    "options": [
+      "Jawaharlal Nehru",
+      "B.R. Ambedkar",
+      "Sardar Vallabhbhai Patel",
+      "Bal Gangadhar Tilak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sardar Vallabhbhai Patel is the Iron Man of India for uniting 562 princely states after independence.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm43",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "medium",
+    "question": "Which bank issues currency notes in India?",
+    "options": [
+      "SBI",
+      "Finance Ministry",
+      "RBI",
+      "Ministry of Commerce"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Reserve Bank of India (RBI) is the sole authority to issue currency notes in India.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm44",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "medium",
+    "question": "The Preamble of the Indian Constitution was amended in which year?",
+    "options": [
+      "1952",
+      "1971",
+      "1976",
+      "1992"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Preamble was amended by the 42nd Amendment (1976) to add 'Socialist', 'Secular', and 'Integrity'.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm45",
+    "category": "GK",
+    "topic": "Indian Constitution",
+    "difficulty": "medium",
+    "question": "Article 370 was related to which state?",
+    "options": [
+      "Sikkim",
+      "Nagaland",
+      "Jammu & Kashmir",
+      "Manipur"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article 370 granted special status to Jammu & Kashmir. It was abrogated in August 2019.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm46",
+    "category": "GK",
+    "topic": "Important Days",
+    "difficulty": "medium",
+    "question": "International Women's Day is observed on:",
+    "options": [
+      "7 March",
+      "8 March",
+      "9 March",
+      "10 March"
+    ],
+    "correctAnswer": 1,
+    "explanation": "International Women's Day is observed globally on 8 March every year.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm47",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "medium",
+    "question": "Valley of Flowers National Park is in which state?",
+    "options": [
+      "Himachal Pradesh",
+      "Jammu & Kashmir",
+      "Uttarakhand",
+      "Sikkim"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Valley of Flowers National Park is in Uttarakhand, known for its alpine wildflowers.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm48",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "medium",
+    "question": "Which planet has the most moons in our solar system?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Saturn has the most confirmed moons (146 as of recent counts), surpassing Jupiter.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm49",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "medium",
+    "question": "The Battle of Panipat (1526) was fought between:",
+    "options": [
+      "Akbar and Hemu",
+      "Babur and Ibrahim Lodi",
+      "Humayun and Sher Shah",
+      "Aurangzeb and Shivaji"
+    ],
+    "correctAnswer": 1,
+    "explanation": "First Battle of Panipat (1526): Babur defeated Ibrahim Lodi, establishing the Mughal Empire.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm50",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "medium",
+    "question": "Which organization publishes India's Economic Survey?",
+    "options": [
+      "NITI Aayog",
+      "RBI",
+      "Ministry of Finance",
+      "Finance Commission"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Economic Survey is published annually by the Ministry of Finance before the Union Budget.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm51",
+    "category": "GK",
+    "topic": "Famous Personalities",
+    "difficulty": "medium",
+    "question": "Homi J. Bhabha is associated with which field in India?",
+    "options": [
+      "Space research",
+      "Nuclear science",
+      "Agricultural research",
+      "Computer science"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Homi J. Bhabha is the father of India's nuclear programme and founded BARC (Bhabha Atomic Research Centre).",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm52",
+    "category": "GK",
+    "topic": "Books and Authors",
+    "difficulty": "medium",
+    "question": "Who wrote 'My Experiments with Truth' (autobiography)?",
+    "options": [
+      "Nehru",
+      "Gandhi",
+      "Ambedkar",
+      "Tagore"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'My Experiments with Truth' is the autobiography of Mahatma Gandhi.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm53",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "medium",
+    "question": "Which is India's smallest state by area?",
+    "options": [
+      "Goa",
+      "Sikkim",
+      "Tripura",
+      "Manipur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Goa is India's smallest state by area.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm54",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "medium",
+    "question": "Abhinav Bindra won India's first individual Olympic gold medal in:",
+    "options": [
+      "Boxing",
+      "Archery",
+      "Shooting",
+      "Wrestling"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Abhinav Bindra won gold in 10m air rifle shooting at the 2008 Beijing Olympics.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gkm55",
+    "category": "GK",
+    "topic": "Awards and Honours",
+    "difficulty": "medium",
+    "question": "Who was the first Indian to receive the Nobel Prize in Economics?",
+    "options": [
+      "C.V. Raman",
+      "Rabindranath Tagore",
+      "Amartya Sen",
+      "A.K. Sen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Amartya Sen won the Nobel Prize in Economics in 1998 for his contributions to welfare economics.",
+    "timeLimit": 25,
+    "language": "en"
+  },
+  {
+    "id": "gk_m51",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "medium",
+    "question": "The Election Commission of India is established under which article?",
+    "options": [
+      "Article 315",
+      "Article 324",
+      "Article 340",
+      "Article 350"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article 324 of the Indian Constitution establishes the Election Commission of India",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gk_m52",
+    "category": "GK",
+    "topic": "Indian Economy",
+    "difficulty": "medium",
+    "question": "India's digital payment platform UPI was launched in:",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "correctAnswer": 2,
+    "explanation": "UPI (Unified Payments Interface) was launched by NPCI in April 2016",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gk_m53",
+    "category": "GK",
+    "topic": "Famous Personalities",
+    "difficulty": "medium",
+    "question": "Who is known as the Missile Man of India?",
+    "options": [
+      "Vikram Sarabhai",
+      "Homi Bhabha",
+      "A.P.J. Abdul Kalam",
+      "C.V. Raman"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dr. A.P.J. Abdul Kalam, former President of India, is known as the Missile Man of India for his work on IGMDP",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "gk_m54",
+    "category": "GK",
+    "topic": "Science basics",
+    "difficulty": "medium",
+    "question": "Photosynthesis takes place in which part of the plant?",
+    "options": [
+      "Root",
+      "Stem",
+      "Chloroplast (in leaves)",
+      "Flower"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Photosynthesis occurs in chloroplasts, mainly found in green leaves",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "gk_m55",
+    "category": "GK",
+    "topic": "Important Days",
+    "difficulty": "medium",
+    "question": "National Youth Day (India) is celebrated on:",
+    "options": [
+      "12 January",
+      "14 November",
+      "26 December",
+      "15 August"
+    ],
+    "correctAnswer": 0,
+    "explanation": "National Youth Day is celebrated on 12 January, birthday of Swami Vivekananda",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "gk_m56",
+    "category": "GK",
+    "topic": "Books and Authors",
+    "difficulty": "medium",
+    "question": "'India After Gandhi' was written by:",
+    "options": [
+      "Shashi Tharoor",
+      "Ramachandra Guha",
+      "Amartya Sen",
+      "Patrick French"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'India After Gandhi: The History of the World's Largest Democracy' (2007) is by Ramachandra Guha",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "gk_m57",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "medium",
+    "question": "The Rajya Sabha is also known as:",
+    "options": [
+      "Upper House",
+      "Council of States",
+      "Both A and B",
+      "House of People"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rajya Sabha is both the Upper House and the Council of States of Parliament",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "gk_m58",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "medium",
+    "question": "The river Brahmaputra is known as 'Yarlung Tsangpo' in:",
+    "options": [
+      "Bangladesh",
+      "Nepal",
+      "Bhutan",
+      "Tibet/China"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Brahmaputra is called Yarlung Tsangpo in Tibet, where it originates",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gk_m59",
+    "category": "GK",
+    "topic": "Sports",
+    "difficulty": "medium",
+    "question": "Which Indian cricketer is known as 'The Wall'?",
+    "options": [
+      "Sachin Tendulkar",
+      "Saurav Ganguly",
+      "Rahul Dravid",
+      "Anil Kumble"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rahul Dravid is called 'The Wall' for his defensive batting and resilience",
+    "timeLimit": 10,
+    "language": "en"
+  },
+  {
+    "id": "gk_m60",
+    "category": "GK",
+    "topic": "Awards and Honours",
+    "difficulty": "medium",
+    "question": "Padma Vibhushan is India's __ highest civilian award:",
+    "options": [
+      "Highest",
+      "Second highest",
+      "Third highest",
+      "Fourth highest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Padma Vibhushan is India's second highest civilian honour (after Bharat Ratna)",
+    "timeLimit": 15,
+    "language": "en"
+  },
+  {
+    "id": "gk_m51",
+    "category": "GK",
+    "topic": "Indian Polity",
+    "difficulty": "medium",
+    "question": "Rajya Sabha is a permanent body. How many members retire every 2 years?",
+    "options": [
+      "1/3rd",
+      "1/4th",
+      "1/6th",
+      "Half"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One-third (1/3) of Rajya Sabha members retire every two years. Total members = 245 (238 elected + 12 nominated)",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gk_m52",
+    "category": "GK",
+    "topic": "Famous Personalities",
+    "difficulty": "medium",
+    "question": "Dr. APJ Abdul Kalam served as President of India from:",
+    "options": [
+      "2000-2005",
+      "2002-2007",
+      "2004-2009",
+      "2006-2011"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dr. A.P.J. Abdul Kalam served as India's 11th President from 25 July 2002 to 25 July 2007",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gk_m53",
+    "category": "GK",
+    "topic": "Indian History",
+    "difficulty": "medium",
+    "question": "First Session of Indian National Congress was presided by:",
+    "options": [
+      "Dadabhai Naoroji",
+      "W.C. Bonnerjee",
+      "Pherozeshah Mehta",
+      "S.N. Banerjee"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Womesh Chunder Bonnerjee (W.C. Bonnerjee) presided over the first session of INC in Bombay (1885)",
+    "timeLimit": 20,
+    "language": "en"
+  },
+  {
+    "id": "gk_m54",
+    "category": "GK",
+    "topic": "Indian Geography",
+    "difficulty": "medium",
+    "question": "Project Tiger was launched in:",
+    "options": [
+      "1970",
+      "1973",
+      "1975",
+      "1980"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Project Tiger was launched on 1 April 1973 to protect Bengal tigers; Jim Corbett National Park was the first reserve",
+    "timeLimit": 20,
+    "language": "en"
+  }
+]
