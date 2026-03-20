@@ -1,0 +1,25 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Flutter generated
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Android
+android/.gradle/
+android/local.properties
+**/captures/
+*.keystore
+*.jks
+
+# IntelliJ / VS Code
+.idea/
+*.iml
+.vscode/
+
+# macOS / misc
+.DS_Store
