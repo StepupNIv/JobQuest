@@ -1,25 +1,21 @@
-# Flutter / Dart
 .dart_tool/
+<<<<<<< Updated upstream
 .packages
 .pub/
 build/
 
 # Flutter generated
+=======
+build/
+android/.gradle/
+>>>>>>> Stashed changes
 .flutter-plugins
 .flutter-plugins-dependencies
 .metadata
-
-# Android
-android/.gradle/
 android/local.properties
-**/captures/
-*.keystore
 *.jks
-
-# IntelliJ / VS Code
+*.keystore
 .idea/
-*.iml
 .vscode/
-
-# macOS / misc
+*.iml
 .DS_Store
